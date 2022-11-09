@@ -1,0 +1,2488 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+  <sequence>
+    <citation-number>3-12</citation-number>
+    <title>Recent Trends in Emissions of Volatile Organic Compounds from Major Categories of Manmade Sources .</title>
+    <author>. . . . . . . . . . . . . . .</author>
+    <title>3-73 3-13 Annual Biogenic Hydrocarbon Emission Inventory for the United States</title>
+    <volume>. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</volume>
+    <pages>3-77</pages>
+  </sequence>
+  <sequence>
+    <citation-number>3-14</citation-number>
+    <title>Annual Biogenic Hydrocarbon Emission Inventory by Month and by U.S.</title>
+    <author>Environmental Protection Agency Region for United States Emissions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</author>
+    <title>3-78 3-15 Performance Specifications for Automated Methods of Ozone Analysis .</title>
+    <volume>. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</volume>
+    <pages>3-92</pages>
+  </sequence>
+  <sequence>
+    <citation-number>3-16</citation-number>
+    <title>Reference and Equivalent Methods for Ozone Designated by the U.S.</title>
+    <author>Environmental Protection Agency . . . . . . . . . . . . . . .</author>
+    <title>3-93 3-17 List of Designated Reference and Equivalent Methods for Ozone</title>
+    <volume>. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</volume>
+    <pages>3-94</pages>
+  </sequence>
+  <sequence>
+    <citation-number>3-18</citation-number>
+    <author>Performance Specifications for Nitrogen Dioxide Automated Methods . . . . . . . . . . . . . . . . . . . . . .</author>
+    <volume>. . . . . . . . . . . . . . . . . . .</volume>
+    <pages>3-121 3-19</pages>
+    <publisher>Comparability Test Specifications for Nitrogen Dioxide .</publisher>
+    <pages>. . . . . . . 3-121</pages>
+  </sequence>
+  <sequence>
+    <citation-number>3-20</citation-number>
+    <author>Reference and Equivalent Methods for Nitrogen Dioxide Designated by the U.S. Environmental Protection Agency . . . . . . .</author>
+    <title>3-122 3-21 Grid-Based Urban and Regional Air Pollution Models: Overview of Three-Dimensional Air Quality Models .</title>
+    <volume>. . . . . . . . . . . . . . . . .</volume>
+    <pages>3-145</pages>
+  </sequence>
+  <sequence>
+    <citation-number>3-22</citation-number>
+    <title>Grid-Based Urban and Regional Air Pollution Models: Treatment of Emissions and Spatial</title>
+    <author>Resolution . . . . . . . . . . . . . . .</author>
+    <volume>. . . . . . .</volume>
+    <pages>3-146 3-23</pages>
+    <container-title>Grid-Based Urban and Regional Air Pollution Models: Treatment of Meteorological Fields, Transport, and Dispersion .</container-title>
+    <volume>. . . . . . . . . .</volume>
+    <pages>3-147</pages>
+  </sequence>
+  <sequence>
+    <citation-number>4-11</citation-number>
+    <title>Summary of Percentiles of Hourly Average Concentrations for Electric Power Research Institute Sulfate Regional Experiment Program Sites/Eastern Regional Air Quality Study Ozone Monitoring Sites .</title>
+    <volume>. . . . . . . . . . . . . . . . . . . . . . . . . . . . .</volume>
+    <pages>4-38</pages>
+  </sequence>
+  <sequence>
+    <citation-number>4-14</citation-number>
+    <author>Description of Mountain Cloud Chemistry Program Sites . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</author>
+    <title>4-63 4-15 Seasonal (April to October)</title>
+    <container-title>Percentiles, SUM06, SUM08, and W126 Values for the Mountain Cloud Chemistry Program Sites .</container-title>
+    <volume>. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</volume>
+    <pages>4-64</pages>
+  </sequence>
+  <sequence>
+    <citation-number>4-16</citation-number>
+    <title>Summary Statistics for 11 Integrated Forest Study Sites .</title>
+    <author>. . . . . . .</author>
+    <title>4-67 4-17 Quarterly Maximum One-Hour Ozone Values at Sites in and Around New Haven,</title>
+    <location>Connecticut,</location>
+    <date>1976</date>
+    <volume>. . . . . . . . . . . . . . .</volume>
+    <pages>4-69</pages>
+  </sequence>
+  <sequence>
+    <citation-number>3-19</citation-number>
+    <title>Nitrogen oxides emissions from manmade sources in the 10 U.S. Environmental Protection Agency regions of the United States,</title>
+    <date>1991</date>
+    <volume>. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</volume>
+    <pages>3-64 3-20</pages>
+    <container-title>Changes in nitrogen oxides emissions from manmade sources in the United States, 10-year intervals,</container-title>
+    <date>1940 through 1990</date>
+    <volume>. . . . . . . .</volume>
+    <pages>3-65</pages>
+  </sequence>
+  <sequence>
+    <citation-number>3-21</citation-number>
+    <title>Changes in nitrogen oxides emissions from stationary source fuel combustion and transportation from 1940 through</title>
+    <date>1990</date>
+    <volume>. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</volume>
+    <pages>3-66</pages>
+  </sequence>
+  <sequence>
+    <citation-number>3-23</citation-number>
+    <title>Changes in emissions of volatile organic compounds from major manmade sources,</title>
+    <date>1940 through 1990</date>
+    <author>. . . . . . . . . . . . . . . . . . . . .</author>
+    <title>3-73 3-24 Estimated biogenic emissions of volatile organic compounds in the United States as a function of season .</title>
+    <volume>. . . . . . . . . . . . . . . . . .</volume>
+    <pages>3-80</pages>
+  </sequence>
+  <sequence>
+    <citation-number>3-25</citation-number>
+    <title>Example of Empirical Kinetic Modeling Approach diagram for high-oxidant urban area .</title>
+    <volume>. . . . . . . . . . . . . . . . . . . . . . . . . . .</volume>
+    <pages>3-132</pages>
+  </sequence>
+  <sequence>
+    <citation-number>4-3</citation-number>
+    <title>A summary of the seasonal (January to December) averaged composite ozone diurnal curve and integrated exposure W126 index for the Los Angeles, California, site for the period</title>
+    <date>1980 to 1991</date>
+    <author>. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</author>
+    <volume>. . . . . . . . . .</volume>
+    <pages>4-11</pages>
+    <title>4-4 United States map of the highest second daily maximum one-hour average ozone concentration by Metropolitan Statistical Area,</title>
+    <date>1991</date>
+    <volume>. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</volume>
+    <pages>4-16</pages>
+  </sequence>
+  <sequence>
+    <citation-number>4-7</citation-number>
+    <title>The location of National Dry Deposition Network monitoring sites as of</title>
+    <date>December 1990</date>
+    <volume>. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</volume>
+    <pages>4-39</pages>
+  </sequence>
+  <sequence>
+    <citation-number>4-8</citation-number>
+    <title>The kriged 1985 to 1986 maximum seven-hour and 12-hour average concentrations of ozone across the United States .</title>
+    <author>. . . . . .</author>
+    <title>4-44 4-9 The kriged estimates of the W126 integrated ozone exposure index for the eastern United States for 1988 and</title>
+    <date>1989</date>
+    <volume>. . . . . . . . . . . . . .</volume>
+    <pages>4-45</pages>
+  </sequence>
+  <sequence>
+    <citation-number>4-10</citation-number>
+    <title>The comparison of the seasonal diurnal patterns using 1988 data for Jefferson County,</title>
+    <author>Kentucky, and Oliver County, North Dakota . . . . . . . . .</author>
+    <volume>. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</volume>
+    <pages>4-48</pages>
+  </sequence>
+  <sequence>
+    <citation-number>4-14</citation-number>
+    <title>Diurnal pattern of one-hour ozone concentrations on</title>
+    <date>July 13, 1979,</date>
+    <author>Philadelphia, Pennsylvania . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</author>
+    <title>4-51 4-15 Diurnal and one-month composite diurnal variations in ozone concentrations,</title>
+    <location>Washington, District of Columbia,</location>
+    <date>July 1981</date>
+    <pages>. . . . . 4-52</pages>
+  </sequence>
+  <sequence>
+    <citation-number>4-17</citation-number>
+    <title>Diurnal and one-month composite diurnal variations in ozone concentrations,</title>
+    <location>Alton, Illinois,</location>
+    <date>October 1981 (fourth quarter)</date>
+    <author>. . . . .</author>
+    <title>4-54 4-18 Composite diurnal patterns of ozone concentrations by quarter,</title>
+    <location>Alton, Illinois,</location>
+    <date>1981</date>
+    <volume>. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</volume>
+    <pages>4-55</pages>
+  </sequence>
+  <sequence>
+    <citation-number>4-19</citation-number>
+    <title>Quarterly composite diurnal patterns of ozone concentrations at selected sites representing potential for exposure of major crops,</title>
+    <date>1981</date>
+    <author>. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</author>
+    <title>4-56 4-20 Composite diurnal ozone pattern at a rural National Crop Loss Assessment Network site in Argonne, Illinois, August 6 through September 30,</title>
+    <date>1980</date>
+    <volume>. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</volume>
+    <pages>4-57</pages>
+  </sequence>
+  <sequence>
+    <citation-number>4-21</citation-number>
+    <title>Composite diurnal ozone pattern at selected National Dry Deposition Network sites .</title>
+    <author>. . . . . . . . . . . . . . . . . . . . . . . . . . . . .</author>
+    <title>4-58 4-22 Composite diurnal pattern at Whiteface Mountain, New York, and the Mountain Cloud Chemistry Program Shenandoah National Park site for May to September</title>
+    <date>1987</date>
+    <volume>. . . . . . . . . . . . . . . . . . . . .</volume>
+    <pages>4-59</pages>
+  </sequence>
+  <sequence>
+    <citation-number>4-23</citation-number>
+    <title>Seasonal variations in ozone concentrations as indicated by monthly averages and the one-hour maximum in each month at selected sites,</title>
+    <date>1981</date>
+    <author>. . . . . . . . . . . . . . . . . . . . . . .</author>
+    <volume>. . . . . . . . . . .</volume>
+    <pages>4-60 4-24</pages>
+    <container-title>Seven- and 12-hour means at Whiteface Mountain and Shenandoah National Park for May to September 1987 and integrated exposures at Whiteface Mountain and Shenandoah National Park for May to September 1987 .</container-title>
+    <pages>. . . . . . . . 4-65</pages>
+  </sequence>
+  <sequence>
+    <citation-number>4-25</citation-number>
+    <title>Integrated exposures for three non-Mountain Cloud Chemistry Program Shenandoah National Park sites,</title>
+    <date>1983 to 1987</date>
+    <volume>. . . . . . . .</volume>
+    <pages>4-66</pages>
+  </sequence>
+  <sequence>
+    <author>Dr. A.</author>
+    <title>Paul Altshuller—National Center for Environmental Assessment (MD-52),</title>
+    <container-title>U.S. Environmental Protection Agency, Research Triangle Park, NC 27711 Mr. Robert R. Arnts—National Exposure Research Laboratory (MD-84) U.S. Environmental Protection Agency, Research Triangle Park,</container-title>
+    <pages>NC 27711</pages>
+  </sequence>
+  <sequence>
+    <author>Dr. James M.</author>
+    <title>Godowitch—National Exposure Research Laboratory (MD-80),</title>
+    <container-title>U.S. Environmental Protection Agency, Research Triangle Park, NC 27711 Dr. Jimmie W. Hodgeson—National Exposure Research Laboratory (MD-84), U.S. Environmental Protection Agency, Research Triangle Park,</container-title>
+    <pages>NC 27711</pages>
+  </sequence>
+  <sequence>
+    <author>Dr. Harvey E.</author>
+    <title>Jeffries—Department of Environmental Sciences and Engineering, School of Public Health,</title>
+    <genre>CB #7400,</genre>
+    <publisher>University of North Carolina, Chapel Hill,</publisher>
+    <title>North Carolina 27599-7400 Dr.</title>
+    <publisher>Douglas R. Lawson—Energy and Environmental Engineering Center, Desert Research Institute,</publisher>
+    <location>Reno, NV 89506</location>
+  </sequence>
+  <sequence>
+    <author>Dr. Charles W.</author>
+    <title>Lewis—National Exposure Research Laboratory (MD-47),</title>
+    <container-title>U.S. Environmental Protection Agency, Research Triangle Park, NC 27711 Mr. William A. Lonneman—National Exposure Research Laboratory (MD-84), U.S. Environmental Protection Agency, Research Triangle Park,</container-title>
+    <pages>NC 27711</pages>
+  </sequence>
+  <sequence>
+    <author>Dr. William A.</author>
+    <title>McClenny—National Exposure Research Laboratory (MD-44),</title>
+    <container-title>U.S. Environmental Protection Agency, Research Triangle Park, NC 27711 Mr. Frank F. McElroy—National Exposure Research Laboratory (MD-77), U.S. Environmental Protection Agency, Research Triangle Park,</container-title>
+    <pages>NC 27711</pages>
+  </sequence>
+  <sequence>
+    <author>Mr. Thomas B.</author>
+    <title>McMullen—Office of Air Quality Planning and Standards (MD-14),</title>
+    <container-title>U.S. Environmental Protection Agency, Research Triangle Park,</container-title>
+    <note>NC 27711 Authors, Contributors, and Reviewers (cont’d)</note>
+  </sequence>
+  <sequence>
+    <author>Dr. Edwin L.</author>
+    <title>Meyer—Office of Air Quality Planning and Standards (MD-14),</title>
+    <container-title>U.S. Environmental Protection Agency, Research Triangle Park, NC 27711 Mr. David C. Misenheimer—Office of Air Quality Planning and Standards (MD-14), U.S. Environmental Protection Agency, Research Triangle Park,</container-title>
+    <pages>NC 27711</pages>
+  </sequence>
+  <sequence>
+    <author>Mr. J.</author>
+    <title>David Mobley—Office of Air Quality Planning and Standards (MD-14),</title>
+    <container-title>U.S. Environmental Protection Agency, Research Triangle Park, NC 27711 Dr. Will Ollison—American Petroleum Institute, 1220 L</container-title>
+    <location>Street NW, Washington, DC 20005</location>
+  </sequence>
+  <sequence>
+    <author>Dr. Kenneth Olszyna—Tennessee Valley Authority,</author>
+    <title>CEB 2A, Muscle Shoals, AL 35660 Mr.</title>
+    <container-title>Thomas E. Pierce—National Exposure Research Laboratory (MD-80), U.S. Environmental Protection Agency, Research Triangle Park,</container-title>
+    <pages>NC 27711</pages>
+  </sequence>
+  <sequence>
+    <author>Dr. Jack H.</author>
+    <title>Shreffler—National Exposure Research Laboratory (MD-75),</title>
+    <container-title>U.S. Environmental Protection Agency, Research Triangle Park,</container-title>
+    <pages>NC 27711</pages>
+  </sequence>
+  <sequence>
+    <author>Ms. Beverly E.</author>
+    <title>Tilton—National Center for Environmental Assessment (MD-52),</title>
+    <container-title>U.S. Environmental Protection Agency, Research Triangle Park, NC 27711 Authors, Contributors,</container-title>
+    <note>and Reviewers (cont’d)</note>
+  </sequence>
+  <sequence>
+    <author>Dr.</author>
+    <title>Fred Vukovich—Private consultant, 7820 Harps Mill Road, Raleigh, NC 27615 Mr. Richard A.</title>
+    <container-title>Wayland—Office of Air Quality Planning and Standards (MD-14), U.S. Environmental Protection Agency, Research Triangle Park,</container-title>
+    <pages>NC 27711</pages>
+  </sequence>
+  <sequence>
+    <author>Dr. Thomas C.</author>
+    <title>Curran—Office of Air Quality Planning and Standards (MD-12),</title>
+    <container-title>U.S. Environmental Protection Agency, Research Triangle Park, NC 27711 Mr. Gary F. Evans—National Exposure Research Laboratory (MD-56), U.S. Environmental Protection Agency, Research Triangle Park,</container-title>
+    <pages>NC 27711</pages>
+  </sequence>
+  <sequence>
+    <author>Mr. William G.</author>
+    <title>Ewald—National Center for Environmental Assessment (MD-52), U.S. Environmental Protection Agency, Research Triangle Park, NC 27711 Mr.</title>
+    <container-title>Warren P. Freas—Office of Air Quality Planning and Standards (MD-14), U.S. Environmental Protection Agency, Research Triangle Park,</container-title>
+    <pages>NC 27711</pages>
+  </sequence>
+  <sequence>
+    <author>Mr. Thomas R. McCurdy—</author>
+    <title>National Exposure Research Laboratory (MD-56),</title>
+    <container-title>U.S. Environmental Protection Agency, Research Triangle Park, NC 27711 Authors, Contributors,</container-title>
+    <note>and Reviewers (cont’d)</note>
+  </sequence>
+  <sequence>
+    <author>Mr. Cornelius J.</author>
+    <title>Nelson—National Exposure Research Laboratory (MD-56),</title>
+    <container-title>U.S. Environmental Protection Agency, Research Triangle Park, NC 27711 Dr. William Parkhurst—Tennessee Valley Authority, CEB 2A, Muscle Shoals, AL</container-title>
+    <volume>35660</volume>
+  </sequence>
+  <sequence>
+    <author>Mr. Harvey M.</author>
+    <title>Richmond—Office of Air Quality Planning and Standards (MD-12),</title>
+    <container-title>U.S. Environmental Protection Agency, Research Triangle Park,</container-title>
+    <pages>NC 27711</pages>
+  </sequence>
+  <sequence>
+    <author>Mr. James A. Raub—Health Scientist,</author>
+    <title>National Center for Environmental Assessment (MD-52),</title>
+    <container-title>U.S. Environmental Protection Agency, Research Triangle Park, NC 27711 Dr. A. Paul Altshuller—Physical Scientist, National Center for Environmental Assessment (MD-52), U.S. Environmental Protection Agency, Research Triangle Park,</container-title>
+    <pages>NC 27711</pages>
+  </sequence>
+  <sequence>
+    <author>Mr. William G. Ewald—Health Scientist,</author>
+    <title>National Center for Environmental Assessment (MD-52),</title>
+    <container-title>U.S. Environmental Protection Agency, Research Triangle Park, NC 27711 Dr. J.H.B. Garner—Ecologist, National Center for Environmental Assessment (MD-52), U.S. Environmental Protection Agency, Research Triangle Park,</container-title>
+    <pages>NC 27711</pages>
+  </sequence>
+  <sequence>
+    <author>Dr. Judith A. Graham—Associate Director,</author>
+    <title>National Center for Environmental Assessment (MD-52),</title>
+    <container-title>U.S. Environmental Protection Agency, Research Triangle Park, NC 27711 Ms. Ellie R. Speh—Secretary, National Center for Environmental Assessment (MD-52), U.S. Environmental Protection Agency, Research Triangle Park,</container-title>
+    <pages>NC 27711</pages>
+  </sequence>
+  <sequence>
+    <author>Ms. Beverly E.</author>
+    <title>Tilton—Physical Scientist, National Center for Environmental Assessment (MD-52),</title>
+    <container-title>U.S. Environmental Protection Agency, Research Triangle Park,</container-title>
+    <pages>NC 27711</pages>
+  </sequence>
+  <sequence>
+    <author>Ms. Marianne Barrier—Graphic Artist, ManTech Environmental Technology, Inc., P.O.</author>
+    <title>Box 12313, Research Triangle Park, NC 27709 Mr.</title>
+    <container-title>John R. Barton—Document Production Coordinator, ManTech Environmental Technology, Inc., P.O. Box 12313, Research Triangle Park,</container-title>
+    <pages>NC 27709</pages>
+  </sequence>
+  <sequence>
+    <author>Ms. Lynette D. Cradle—Word Processor, ManTech Environmental Technology, Inc., P.O.</author>
+    <title>Box 12313, Research Triangle Park, NC 27709 Ms.</title>
+    <container-title>Shelia H. Elliott—Word Processor, ManTech Environmental Technology, Inc., P.O. Box 12313, Research Triangle Park,</container-title>
+    <pages>NC 27709</pages>
+  </sequence>
+  <sequence>
+    <author>Ms. Sandra K. Eltz—Word Processor, ManTech Environmental Technology, Inc., P.O.</author>
+    <title>Box 12313, Research Triangle Park, NC 27709 Ms.</title>
+    <container-title>Jorja R. Followill—Word Processor, ManTech Environmental Technology, Inc., P.O. Box 12313, Research Triangle Park,</container-title>
+    <pages>NC 27709</pages>
+  </sequence>
+  <sequence>
+    <author>Ms. Sheila R. Lassiter—Word Processor, ManTech Environmental Technology, Inc., P.O.</author>
+    <title>Box 12313, Research Triangle Park, NC 27709 Ms.</title>
+    <container-title>Wendy B. Lloyd—Word Processor, ManTech Environmental Technology, Inc., P.O. Box 12313, Research Triangle Park,</container-title>
+    <pages>NC 27709</pages>
+  </sequence>
+  <sequence>
+    <author>Ms. Carolyn T. Perry—Word Processor, ManTech Environmental Technology, Inc., P.O.</author>
+    <title>Box 12313, Research Triangle Park, NC 27709 Ms.</title>
+    <container-title>Cheryl B. Thomas—Word Processor, ManTech Environmental Technology, Inc., P.O. Box 12313, Research Triangle Park,</container-title>
+    <pages>NC 27709</pages>
+  </sequence>
+  <sequence>
+    <author>Mr. Peter J.</author>
+    <title>Winz—Technical Editor, ManTech Environmental Technology, Inc., P.O.</title>
+    <genre>Box 12313,</genre>
+    <publisher>Research Triangle Park,</publisher>
+    <pages>NC 27709</pages>
+  </sequence>
+  <sequence>
+    <author>Federal Register.</author>
+    <date>(1971)</date>
+    <title>National primary and secondary ambient air quality standards.</title>
+    <journal>F. R.</journal>
+    <date>(April 30)</date>
+    <volume>36:</volume>
+    <pages>8186-8201.</pages>
+  </sequence>
+  <sequence>
+    <author>Federal Register.</author>
+    <date>(1977)</date>
+    <title>Review of the photochemical oxidant and hydrocarbon air quality standards.</title>
+    <journal>F. R.</journal>
+    <date>(April 20)</date>
+    <volume>42:</volume>
+    <pages>20493-20494.</pages>
+  </sequence>
+  <sequence>
+    <author>Federal Register.</author>
+    <date>(1979)</date>
+    <title>National primary and secondary ambient air quality standards: revisions to the national ambient air quality standards for photochemical oxidants.</title>
+    <journal>F.</journal>
+    <volume>R. (February 8) 44:</volume>
+    <pages>8202-8221.</pages>
+  </sequence>
+  <sequence>
+    <author>Federal Register.</author>
+    <date>(1982)</date>
+    <title>Air quality criteria document for ozone and other photochemical oxidants.</title>
+    <journal>F. R.</journal>
+    <date>(March 17)</date>
+    <volume>47:</volume>
+    <pages>11561.</pages>
+  </sequence>
+  <sequence>
+    <author>Federal Register.</author>
+    <date>(1983)</date>
+    <title>Review of the national ambient air quality standards for ozone.</title>
+    <journal>F.</journal>
+    <volume>R. (August 22) 48:</volume>
+    <pages>38009.</pages>
+  </sequence>
+  <sequence>
+    <author>Federal Register.</author>
+    <date>(1984)</date>
+    <title>Draft air quality criteria document for ozone and other photochemical oxidants.</title>
+    <journal>F.</journal>
+    <volume>R. (July 24) 49:</volume>
+    <pages>29845.</pages>
+  </sequence>
+  <sequence>
+    <author>Federal Register.</author>
+    <date>(1985)</date>
+    <title>Science Advisory Board; Clean Air Scientific Advisory Committee; open meeting.</title>
+    <journal>F.</journal>
+    <volume>R. (February 13) 50:</volume>
+    <pages>6049.</pages>
+  </sequence>
+  <sequence>
+    <author>Federal Register.</author>
+    <date>(1986)</date>
+    <title>Science Advisory Board; Clean Air Scientific Advisory Committee; open meeting.</title>
+    <journal>F. R.</journal>
+    <date>(April 2)</date>
+    <volume>51:</volume>
+    <pages>11339.</pages>
+  </sequence>
+  <sequence>
+    <author>Federal Register.</author>
+    <date>(1992a)</date>
+    <title>National ambient air quality standards for ozone; proposed decision.</title>
+    <journal>F.</journal>
+    <volume>R. (August 10) 57:</volume>
+    <pages>35542-35557.</pages>
+  </sequence>
+  <sequence>
+    <author>Federal Register.</author>
+    <date>(1992b)</date>
+    <title>Air quality criteria for ozone and related photochemical oxidants: call for information.</title>
+    <journal>F.</journal>
+    <volume>R. (August 27) 57:</volume>
+    <pages>38832.</pages>
+  </sequence>
+  <sequence>
+    <author>Federal Register.</author>
+    <date>(1993a)</date>
+    <title>National ambient air quality standards for ozone—final decision.</title>
+    <journal>F. R.</journal>
+    <date>(March 9)</date>
+    <volume>58:</volume>
+    <pages>13008-13019.</pages>
+  </sequence>
+  <sequence>
+    <author>Federal Register.</author>
+    <date>(1993b)</date>
+    <title>Peer-review workshops on the health effects of ozone and related photochemical oxidants: notice of public meeting.</title>
+    <journal>F.</journal>
+    <volume>R. (July 1) 58:</volume>
+    <pages>35454.</pages>
+  </sequence>
+  <sequence>
+    <author>Federal Register.</author>
+    <date>(1993c)</date>
+    <title>Three review workshops on draft chapters of a revised air quality criteria for ozone and related photochemical oxidants: notice of public meetings.</title>
+    <journal>F.</journal>
+    <volume>R. (September 14) 58:</volume>
+    <pages>48063.</pages>
+  </sequence>
+  <sequence>
+    <author>Federal Register.</author>
+    <date>(1994a)</date>
+    <title>External review draft of revised air quality criteria for ozone and related photochemical oxidants: notice of availability of external review draft.</title>
+    <journal>F.</journal>
+    <volume>R. (January 31) 59:</volume>
+    <pages>4278.</pages>
+  </sequence>
+  <sequence>
+    <author>Federal Register.</author>
+    <date>(1994b)</date>
+    <title>Science Advisory Board Clean Air Scientific Advisory Committee review of a draft revised air quality criteria for ozone and related photochemical oxidants.</title>
+    <journal>F.</journal>
+    <volume>R. (June 3) 59:</volume>
+    <pages>28857-28858.</pages>
+  </sequence>
+  <sequence>
+    <author>Federal Register.</author>
+    <date>(1995)</date>
+    <title>Science Advisory Board; notification of public advisory committee meetings.</title>
+    <journal>F.</journal>
+    <volume>R. (March 3) 60:</volume>
+    <pages>11971-11974.</pages>
+  </sequence>
+  <sequence>
+    <author>U.S. Code.</author>
+    <date>(1991)</date>
+    <title>Clean Air Act, §108, air quality criteria and control techniques, §109, national ambient air quality standards.</title>
+    <journal>U. S. C.</journal>
+    <volume>42:</volume>
+    <pages>§§7408-7409.</pages>
+  </sequence>
+  <sequence>
+    <author>U.S. Environmental Protection Agency.</author>
+    <date>(1978)</date>
+    <title>Air quality criteria for ozone and other photochemical oxidants. Research Triangle Park, NC: Office of Health and Environmental Assessment,</title>
+    <journal>Environmental Criteria and Assessment Office;</journal>
+    <volume>report no. EPA-600/8-78-004.</volume>
+    <location>Available from:</location>
+    <publisher>NTIS,</publisher>
+    <location>Springfield, VA;</location>
+    <pages>PB80-124753.</pages>
+  </sequence>
+  <sequence>
+    <author>U.S. Environmental Protection Agency.</author>
+    <date>(1986)</date>
+    <title>Air quality criteria for ozone and other photochemical oxidants. Research Triangle Park, NC: Office of Health and Environmental Assessment, Environmental Criteria and Assessment Office; report nos.</title>
+    <journal>EPA-600/8-84-020aF-eF.</journal>
+    <volume>5v.</volume>
+    <location>Available from:</location>
+    <publisher>NTIS,</publisher>
+    <location>Springfield, VA;</location>
+    <pages>PB87-142949.</pages>
+  </sequence>
+  <sequence>
+    <author>U.S. Environmental Protection Agency.</author>
+    <date>(1992)</date>
+    <title>Summary of selected new information on effects of ozone on health and vegetation: supplement to 1986 air quality criteria for ozone and other photochemical oxidants.</title>
+    <container-title>Research Triangle Park, NC: Office of Health and Environmental Assessment, Environmental Criteria and Assessment Office;</container-title>
+    <volume>report no. EPA/600/8-88/105F.</volume>
+    <location>Available from:</location>
+    <publisher>NTIS,</publisher>
+    <location>Springfield, VA;</location>
+    <pages>PB92-235670.</pages>
+  </sequence>
+  <sequence>
+    <author>U.S. Environmental Protection Agency.</author>
+    <date>(1993)</date>
+    <title>Air quality criteria for oxides of nitrogen. Research Triangle Park, NC: Office of Health and Environmental Assessment, Environmental Criteria and Assessment Office; report nos.</title>
+    <journal>EPA/600/8-91/049aF-cF.</journal>
+    <volume>3v.</volume>
+    <location>Available from:</location>
+    <publisher>NTIS,</publisher>
+    <location>Springfield, VA;</location>
+    <note>PB95-124533, PB95-124525, and PB95-124517.</note>
+  </sequence>
+  <sequence>
+    <author>Adams, R. M.; Hamilton, S. A.; McCarl, B. A.</author>
+    <date>(1985)</date>
+    <title>An assessment of the economic effects of ozone on U.S. agriculture.</title>
+    <journal>J. Air Pollut. Control Assoc.</journal>
+    <volume>35:</volume>
+    <pages>938-943.</pages>
+  </sequence>
+  <sequence>
+    <author>Adams, R. M.; Glyer, J. D.; Johnson, S. L.; McCarl, B. A.</author>
+    <date>(1989)</date>
+    <title>A reassessment of the economic effects of ozone on U.S. agriculture.</title>
+    <journal>JAPCA</journal>
+    <volume>39:</volume>
+    <pages>960-968.</pages>
+  </sequence>
+  <sequence>
+    <author>Altshuller, A. P.</author>
+    <date>(1983)</date>
+    <title>Measurements of the products of atmospheric photochemical reactions in laboratory studies and in ambient air-relationships between ozone and other products.</title>
+    <journal>Atmos. Environ.</journal>
+    <volume>17:</volume>
+    <pages>2383-2427.</pages>
+  </sequence>
+  <sequence>
+    <author>Altshuller, A. P.</author>
+    <date>(1986)</date>
+    <title>The role of nitrogen oxides in nonurban ozone formation in the planetary boundary layer over N America, W Europe and adjacent areas of ocean.</title>
+    <journal>Atmos. Environ.</journal>
+    <volume>20:</volume>
+    <pages>245-268.</pages>
+  </sequence>
+  <sequence>
+    <author>Altshuller, A. P.</author>
+    <date>(1989)</date>
+    <title>Sources and levels of background ozone and its precursors and impact at ground level.</title>
+    <editor>In: Schneider, T.; Lee, S. D.; Wolters, G. J. R.; Grant, L. D., eds.</editor>
+    <title>Atmospheric ozone research and its policy implications:</title>
+    <container-title>proceedings of the 3rd US-Dutch international symposium;</container-title>
+    <date>May 1988;</date>
+    <location>Nijmegen, The Netherlands. Amsterdam, The Netherlands:</location>
+    <publisher>Elsevier Science Publishers;</publisher>
+    <pages>pp. 127-157.</pages>
+    <note>(Studies in environmental science: 35).</note>
+  </sequence>
+  <sequence>
+    <author>Altshuller, A. P.; Lefohn, A. S.</author>
+    <date>(1996)</date>
+    <title>Background ozone in the planetary boundary layer over the United States.</title>
+    <journal>J. Air Waste Manage. Assoc.</journal>
+    <volume>46:</volume>
+    <pages>134-141.</pages>
+  </sequence>
+  <sequence>
+    <author>Aneja, V. P.; Li, Z.</author>
+    <date>(1992)</date>
+    <title>Characterization of ozone at high elevation in the eastern United States: trends, seasonal variations, and exposure.</title>
+    <journal>J. Geophys. Res. [Atmos.]</journal>
+    <volume>97:</volume>
+    <pages>9873-9888.</pages>
+  </sequence>
+  <sequence>
+    <author>Austin, B. S.; Andersen, G. E.; Weir, B. R.; Seigneur, C.</author>
+    <date>(1986)</date>
+    <title>Further development and application of an improved population exposure model.</title>
+    <location>San Rafael, CA:</location>
+    <publisher>Systems Applications, Inc.</publisher>
+  </sequence>
+  <sequence>
+    <author>Avol, E. L.; Trim, S. C.; Little, D. E.; Spier, C. E.; Smith, M. N.; Peng, R.-C.; Linn, W. S.; Hackney, J. D.; Gross, K. B.; D’Arcy, J. B.; Gibbons, D.; Higgins, I. T. T.</author>
+    <date>(1990)</date>
+    <title>Ozone exposure and lung function in children attending a southern California summer camp.</title>
+    <container-title>Presented at: 83rd annual meeting and exhibition of the Air &amp; Waste Management Association;</container-title>
+    <location>June; Pittsburgh, PA. Pittsburgh, PA:</location>
+    <publisher>Air &amp; Waste Management Association;</publisher>
+    <note>paper no. 90-150.3.</note>
+  </sequence>
+  <sequence>
+    <author>Berglund, R. L.; Dittenhoefer, A. C.; Ellis, H. M.; Watts, B. J.; Hansen, J. L.</author>
+    <date>(1988)</date>
+    <title>Evaluation of the stringency of alternative forms of a national ambient air quality standard for ozone.</title>
+    <editor>In: Wolff, G. T.; Hanisch, J. L.; Schere, K., eds.</editor>
+    <container-title>Transactions of an APCA international specialty conference on the scientific and technical issues facing post-1987 ozone control strategies;</container-title>
+    <date>November, 1987;</date>
+    <location>Hartford, CT. Pittsburgh, PA:</location>
+    <publisher>Air &amp; Waste Management Association;</publisher>
+    <pages>pp. 343-369.</pages>
+  </sequence>
+  <sequence>
+    <author>Berk, J. V.; Young, R.; Hollowell, C. D.; Turiel, I.; Pepper, J.</author>
+    <date>(1980)</date>
+    <title>The effects of energy-efficient ventilation rates on indoor air quality at an Ohio elementary school.</title>
+    <location>Berkeley, CA:</location>
+    <publisher>University of California,</publisher>
+    <location>Lawrence Berkeley Laboratory;</location>
+    <genre>report no. EEB-VENT 80-9.</genre>
+    <location>Available from:</location>
+    <publisher>NTIS,</publisher>
+    <location>Springfield, VA;</location>
+    <publisher>LBL-10223.</publisher>
+  </sequence>
+  <sequence>
+    <author>Berk, J. V.; Young, R. A.; Brown, S. R.; Hollowell, C. D.</author>
+    <date>(1981)</date>
+    <title>Impact of energy-conserving retrofits on indoor air quality in residential housing.</title>
+    <container-title>Presented at: 74th annual meeting of the Air Pollution Control Association;</container-title>
+    <location>June; Philadelphia, PA. Pittsburgh, PA:</location>
+    <publisher>Air Pollution Control Association;</publisher>
+    <note>paper no. 81-22.1.</note>
+  </sequence>
+  <sequence>
+    <author>Berry, C. R.</author>
+    <date>(1964)</date>
+    <title>Differences in concentrations of surface oxidant between valley and mountaintop conditions in the southern Appalachians.</title>
+    <journal>J. Air Pollut. Control Assoc.</journal>
+    <volume>14:</volume>
+    <pages>238-239.</pages>
+  </sequence>
+  <sequence>
+    <author>Biller, W. F.; Feagans, T. B.; Johnson, T. R.; Duggan, G. M.; Paul, R. A.; McCurdy, T.; Thomas, H. C.</author>
+    <date>(1981)</date>
+    <title>A general model for estimating exposures associated with alternative NAAQS.</title>
+    <container-title>Presented at: 74th annual meeting of the Air Pollution Control Association;</container-title>
+    <location>June; Philadelphia, PA. Pittsburgh, PA:</location>
+    <publisher>Air Pollution Control Association.</publisher>
+  </sequence>
+  <sequence>
+    <author>Böhm, M.; McCune, B.; Vandetta, T.</author>
+    <date>(1991)</date>
+    <title>Diurnal curves of troposheric ozone in the western United States.</title>
+    <journal>Atmos. Environ. Part A</journal>
+    <volume>25:</volume>
+    <pages>1577-1590.</pages>
+  </sequence>
+  <sequence>
+    <author>Bojkov, R. D.</author>
+    <date>(1986)</date>
+    <title>Surface ozone during the second half of the nineteenth century.</title>
+    <journal>J. Clim. Appl. Meteorol.</journal>
+    <volume>25:</volume>
+    <pages>343-352.</pages>
+  </sequence>
+  <sequence>
+    <author>Bower, J. S.; Broughton, G. F. J.; Dando, M. T.; Stevenson, K. J.; Lampert, J. E.; Sweeney, B. P.; Parker, V. J.; Driver, G. S.; Clark, A. G.; Waddon, C. J.; Wood, A. J.; Williams, M. L.</author>
+    <date>(1989)</date>
+    <title>Surface ozone concentrations in the U.</title>
+    <journal>K.</journal>
+    <date>in 1987-1988.</date>
+    <title>Atmos.</title>
+    <journal>Environ.</journal>
+    <volume>23:</volume>
+    <pages>2003-2016.</pages>
+  </sequence>
+  <sequence>
+    <author>Buhr, M. P.; Parrish, D. D.; Norton, R. B.; Fehsenfeld, F. C.; Sievers, R. E.; Roberts, J. M.</author>
+    <date>(1990)</date>
+    <title>Contribution of organic nitrates to the total reactive nitrogen budget at a rural eastern U.S.</title>
+    <journal>site. J. Geophys. Res. [Atmos.]</journal>
+    <volume>95:</volume>
+    <pages>9809-9816.</pages>
+  </sequence>
+  <sequence>
+    <author>California Air Resources Board.</author>
+    <date>(1992)</date>
+    <title>Technical support document for proposed amendments to the criteria for designating areas of California as nonattainment, attainment, or unclassified for state ambient air quality standards.</title>
+    <location>Sacramento, CA:</location>
+    <publisher>California Environmental Protection Agency.</publisher>
+  </sequence>
+  <sequence>
+    <author>Cartalis, C.; Varotsos, C.</author>
+    <date>(1994)</date>
+    <title>Surface ozone in Athens, Greece, at the beginning and at the end of the twentieth century.</title>
+    <journal>Atmos. Environ.</journal>
+    <volume>28:</volume>
+    <pages>3-8.</pages>
+  </sequence>
+  <sequence>
+    <author>Cass, G. R.; Nazaroff, W. W.; Tiller, C.; Whitmore, P. M.</author>
+    <date>(1991)</date>
+    <title>Protection of works of art from damage due to atmospheric ozone.</title>
+    <journal>Atmos. Environ. Part A</journal>
+    <volume>25:</volume>
+    <pages>441-451.</pages>
+  </sequence>
+  <sequence>
+    <author>Chameides, W. L.; Lindsay, R. W.; Richardson, J.; Kiang, C. S.</author>
+    <date>(1988)</date>
+    <title>The role of biogenic hydrocarbons in urban photochemical smog: Atlanta as a case study. Science</title>
+    <location>(Washington, DC)</location>
+    <volume>241:</volume>
+    <pages>1473-1475.</pages>
+  </sequence>
+  <sequence>
+    <author>Chan, C.-C.; Özkaynak, H.; Spengler, J. D.; Sheldon, L.</author>
+    <date>(1991)</date>
+    <title>Driver exposure to volatile organic compounds, CO, ozone and NO2 under different driving conditions.</title>
+    <journal>Environ. Sci. Technol.</journal>
+    <volume>25:</volume>
+    <pages>964-972.</pages>
+  </sequence>
+  <sequence>
+    <author>Cleveland, W. S.; Guarino, R.; Kleiner, B.; McRae, J. E.; Warner, J. L.</author>
+    <date>(1976b)</date>
+    <title>The analysis of the ozone problem in the northeast United States.</title>
+    <container-title>In: Specialty conference on: ozone/oxidants-interactions with the total environment;</container-title>
+    <location>March; Dallas, TX. Pittsburgh, PA:</location>
+    <publisher>Air Pollution Control Association;</publisher>
+    <pages>pp. 109-119.</pages>
+  </sequence>
+  <sequence>
+    <author>Cleveland, W. S.; Kleiner, B.; McRae, J. E.; Warner, J. L.</author>
+    <date>(1976a)</date>
+    <title>Photochemical air pollution: transport from New York City area into Connecticut and Massachusetts.</title>
+    <location>Science (Washington, DC)</location>
+    <volume>191:</volume>
+    <pages>179-181.</pages>
+  </sequence>
+  <sequence>
+    <author>Code of Federal Regulations.</author>
+    <date>(1991)</date>
+    <title>National primary and secondary ambient air quality standards.</title>
+    <journal>C. F. R.</journal>
+    <volume>40:</volume>
+    <pages>§50.</pages>
+  </sequence>
+  <sequence>
+    <author>Coffey, P.; Stasiuk, W.; Mohnen, V.</author>
+    <date>(1977)</date>
+    <title>Ozone in rural and urban areas of New York State: part I.</title>
+    <editor>In: Dimitriades, B., ed.</editor>
+    <container-title>International conference on photochemical oxidant pollution and its control -proceedings:</container-title>
+    <volume>volume I;</volume>
+    <date>September 1976;</date>
+    <location>Raleigh,</location>
+    <publisher>NC. Research Triangle</publisher>
+    <location>Park, NC:</location>
+    <publisher>U.S. Environmental Protection Agency, Environmental Sciences Research Laboratory;</publisher>
+    <pages>pp. 89-96;</pages>
+    <volume>report no. EPA-600/3-77-001a.</volume>
+    <location>Available from:</location>
+    <publisher>NTIS,</publisher>
+    <location>Springfield, VA;</location>
+    <pages>PB-264232.</pages>
+  </sequence>
+  <sequence>
+    <author>Contant, C. F., Jr.; Gehan, B. M.; Stock, T. H.; Holguin, A. H.; Buffler, P. A.</author>
+    <date>(1985)</date>
+    <title>Estimation of individual ozone exposures using microenvironment measurements.</title>
+    <editor>In: Lee, S. D., ed.</editor>
+    <container-title>Transactions: evaluation of the scientific basis for ozone/oxidants standards. An APCA international specialty conference;</container-title>
+    <date>November, 1984;</date>
+    <location>Houston, TX. Pittsburgh, PA:</location>
+    <publisher>Air Pollution Control Association;</publisher>
+    <pages>pp. 250-261.</pages>
+  </sequence>
+  <sequence>
+    <author>Corkum, R.; Giesbrecht, W. W.; Bardsley, T.; Cherniak, E. A.</author>
+    <date>(1986)</date>
+    <title>Peroxyacetyl nitrate (PAN) in the atmosphere at Simcoe, Canada.</title>
+    <journal>Atmos. Environ.</journal>
+    <volume>20:</volume>
+    <pages>1241-1248.</pages>
+  </sequence>
+  <sequence>
+    <author>Cox, W. M.; Chu, S.-H.</author>
+    <date>(1993)</date>
+    <title>Meteorologically adjusted ozone trends in urban areas: a probabilistic approach.</title>
+    <journal>Atmos. Environ. Part B</journal>
+    <volume>27:</volume>
+    <pages>425-434.</pages>
+  </sequence>
+  <sequence>
+    <author>Curran, T. C.; Frank, N. H.</author>
+    <date>(1991)</date>
+    <title>Ambient ozone trends using alternative indicators.</title>
+    <editor>In: Berglund, R. L.; Lawson, D. R.; McKee, D. J., eds.</editor>
+    <container-title>Tropospheric ozone and the environment: papers from an international conference;</container-title>
+    <date>March 1990;</date>
+    <location>Los Angeles, CA. Pittsburgh, PA:</location>
+    <publisher>Air &amp; Waste Management Association;</publisher>
+    <pages>pp. 749-759.</pages>
+    <note>(A&amp;WMA transactions series no. TR-19).</note>
+  </sequence>
+  <sequence>
+    <author>Daum, P. H.; Kleinman, L. I.; Hills, A. J.; Lazrus, A. L.; Leslie, A. C. D.; Busness, K.; Boatman, J.</author>
+    <date>(1990)</date>
+    <title>Measurement and interpretation of concentrations of H2O2 and related species in the upper midwest during summer.</title>
+    <journal>J. Geophys. Res. [Atmos.]</journal>
+    <volume>95:</volume>
+    <pages>9857-9871.</pages>
+  </sequence>
+  <sequence>
+    <author>Davidson, A.</author>
+    <date>(1993)</date>
+    <title>Update of ozone trends in California’s South Coast Air Basin.</title>
+    <journal>Air Waste</journal>
+    <volume>43:</volume>
+    <pages>226-227.</pages>
+  </sequence>
+  <sequence>
+    <author>Davies, T. D.; Ramer, B.; Kaspyzok, G.; Delany, A. C.</author>
+    <date>(1984)</date>
+    <title>Indoor/outdoor ozone concentrations at a contemporary art gallery.</title>
+    <journal>J. Air Pollut. Control Assoc.</journal>
+    <volume>31:</volume>
+    <pages>135-137.</pages>
+  </sequence>
+  <sequence>
+    <author>Druzik, J. R.; Adams, M. S.; Tiller, C.; Cass, G. R.</author>
+    <date>(1990)</date>
+    <title>The measurement and model predictions of indoor ozone concentrations in museums.</title>
+    <journal>Atmos. Environ. Part A</journal>
+    <volume>24:</volume>
+    <pages>1813-1823.</pages>
+  </sequence>
+  <sequence>
+    <author>Duan, N.</author>
+    <date>(1982)</date>
+    <title>Models for human exposure to air pollution.</title>
+    <journal>Environ. Int.</journal>
+    <volume>8:</volume>
+    <pages>305-309.</pages>
+  </sequence>
+  <sequence>
+    <author>Edgerton, E. S.; Lavery, T. F.</author>
+    <date>(1992)</date>
+    <title>National dry deposition network fourth annual progress report,</title>
+    <date>1990.</date>
+  </sequence>
+  <sequence>
+    <author>Research Triangle Park,</author>
+    <title>NC: U.S.</title>
+    <journal>Environmental Protection Agency, Atmospheric Research and Exposure Assessment Laboratory; contract</journal>
+    <volume>no. 68-02-4451.</volume>
+  </sequence>
+  <sequence>
+    <author>Evans, G.; Finkelstein, P.; Martin, B.; Possiel, N.; Graves, M.</author>
+    <date>(1983)</date>
+    <title>Ozone measurements from a network of remote sites.</title>
+    <journal>J. Air Pollut. Control Assoc.</journal>
+    <volume>33:</volume>
+    <pages>291-296.</pages>
+  </sequence>
+  <sequence>
+    <author>Evans, E. G.; Rhodes, R. C.; Mitchell, W. J.; Puzak, J. C.</author>
+    <date>(1985)</date>
+    <title>Summary of precision and accuracy assessments for the state and local air monitoring networks:</title>
+    <date>1982.</date>
+    <title>Research Triangle Park, NC: U.S.</title>
+    <journal>Environmental Protection Agency, Environmental Monitoring Systems Laboratory;</journal>
+    <volume>report no. EPA-600/4-85-031.</volume>
+    <location>Available from:</location>
+    <publisher>NTIS,</publisher>
+    <location>Springfield, VA;</location>
+    <pages>PB85-208171/HSU.</pages>
+  </sequence>
+  <sequence>
+    <author>Fahey, D. W.; Hubler, G.; Parrish, D. D.; Williams, E. J.; Norton, R. B.; Ridley, B. A.; Singh, H. B.; Liu, S. C.; Fehsenfeld, F. C.</author>
+    <date>(1986)</date>
+    <title>Reactive nitrogen species in the troposphere:</title>
+    <note>measurements of NO, NO2, HNO3, particulate nitrate, peroxyacetyl nitrate (PAN), O3, and total reactive odd nitrogen (NOy) at Niwot Ridge, Colorado.</note>
+    <journal>J. Geophys. Res. [Atmos.]</journal>
+    <volume>91:</volume>
+    <pages>9781-9793.</pages>
+  </sequence>
+  <sequence>
+    <author>Faith, R.; Sheshinski, R.</author>
+    <date>(1979)</date>
+    <title>Misspecification of trend in spatial random-function interpolation with application to oxidant mapping.</title>
+    <location>Palo Alto, CA:</location>
+    <publisher>SIAM Institute for Mathematics and Society, Stanford University;</publisher>
+    <genre>technical report</genre>
+    <volume>no. 28.</volume>
+  </sequence>
+  <sequence>
+    <author>Finlayson-Pitts, B. J.; Pitts, J. N., Jr.</author>
+    <date>(1986)</date>
+    <title>Atmospheric chemistry: fundamentals and experimental techniques.</title>
+    <location>New York, NY:</location>
+    <publisher>John Wiley &amp; Sons.</publisher>
+  </sequence>
+  <sequence>
+    <author>Fowler, D.; Cape, J. N.</author>
+    <date>(1982)</date>
+    <title>Air pollutants in agriculture and horticulture.</title>
+    <editor>In: Unsworth, M. H.; Ormrod, D. P., eds.</editor>
+    <title>Effects of gaseous air pollution in agriculture and horticulture.</title>
+    <location>London, United Kingdom:</location>
+    <publisher>Butterworth Scientific;</publisher>
+    <pages>pp. 3-26.</pages>
+  </sequence>
+  <sequence>
+    <author>Gaffney, J. S.; Marley, N. A.; Prestbo, E. W.</author>
+    <date>(1993)</date>
+    <title>Measurements of peroxyacetyl nitrate at a remote site in the southwestern United States: tropospheric implications.</title>
+    <journal>Environ. Sci. Technol.</journal>
+    <volume>27:</volume>
+    <pages>1905-1910.</pages>
+  </sequence>
+  <sequence>
+    <author>Gallopoulos, N. E.; Heuss, J. M.; Chock, D. P.; Dunker, A. M.; Williams, R. L.; Wolff, G. T.</author>
+    <date>(1988)</date>
+    <title>Progress and prospects in air pollution control and the need to strengthen its scientific base.</title>
+    <editor>In: Wolff, G. T.; Hanisch, J. L.; Schere, K., eds.</editor>
+    <container-title>The scientific and technical issues facing post-1987 ozone control stategies: transactions of an APCA international specialty conference;</container-title>
+    <date>November 1987;</date>
+    <location>Hartford, CT. Pittsburgh, PA:</location>
+    <publisher>Air &amp; Waste Management Association;</publisher>
+    <pages>pp. 30-45.</pages>
+  </sequence>
+  <sequence>
+    <author>Grivet, C. D.</author>
+    <date>(1980)</date>
+    <title>Modeling and analysis of air quality data.</title>
+    <location>Palo Alto, CA:</location>
+    <publisher>SIAM Institute for Mathematics and Society, Stanford University;</publisher>
+    <genre>technical report</genre>
+    <volume>no. 43.</volume>
+  </sequence>
+  <sequence>
+    <author>Grosjean, D.; Williams, E. L., II</author>
+    <date>(1992)</date>
+    <title>Photochemical pollution at two southern California smog receptor sites.</title>
+    <journal>J. Air Waste Manage. Assoc.</journal>
+    <volume>42:</volume>
+    <pages>805-809.</pages>
+  </sequence>
+  <sequence>
+    <author>Grosjean, D.; Williams, E. L., II; Grosjean, E.</author>
+    <date>(1993)</date>
+    <title>Peroxyacyl nitrates at southern California mountain forest locations.</title>
+    <journal>Environ. Sci. Technol.</journal>
+    <volume>27:</volume>
+    <pages>110-121.</pages>
+  </sequence>
+  <sequence>
+    <author>Hales, C. H.; Rollinson, A. M.; Shair, F. H.</author>
+    <date>(1974)</date>
+    <title>Experimental verification of linear combination model for relating indoor-outdoor pollutant concentrations.</title>
+    <journal>Environ. Sci. Technol.</journal>
+    <volume>8:</volume>
+    <pages>452-453.</pages>
+  </sequence>
+  <sequence>
+    <author>Hayes, S. R.</author>
+    <date>(1989)</date>
+    <title>Estimating the effect of being indoors on total personal exposure to outdoor air pollution.</title>
+    <journal>JAPCA</journal>
+    <volume>39:</volume>
+    <pages>1453-1461.</pages>
+  </sequence>
+  <sequence>
+    <author>Hayes, S. R.</author>
+    <date>(1991)</date>
+    <title>Use of an indoor air quality model (IAQM) to estimate indoor ozone levels.</title>
+    <journal>J. Air Waste Manage. Assoc.</journal>
+    <volume>41:</volume>
+    <pages>161-170.</pages>
+  </sequence>
+  <sequence>
+    <author>Hayes, S. R.; Lundberg, G. W.</author>
+    <date>(1985)</date>
+    <title>Further improvement and sensitivity analysis of an ozone population exposure model.</title>
+    <location>San Rafael, CA:</location>
+    <publisher>Systems Applications, Inc.</publisher>
+  </sequence>
+  <sequence>
+    <author>Hayes, S. R.; Rosenbaum, A. S.</author>
+    <date>(1988)</date>
+    <title>An examination of acute ozone health risk and exposure effects on proposed SCAQMD rule 1109 using the SOCAB 6-7 June 1985 ozone episode.</title>
+    <location>San Rafael, CA:</location>
+    <publisher>Systems Applications, Inc.</publisher>
+  </sequence>
+  <sequence>
+    <author>Hayes, S. R.; Seigneur, C.; Lundberg, G. W.</author>
+    <date>(1984)</date>
+    <title>Numerical modeling of ozone population exposure: application to a comparison of alternative ozone standards.</title>
+    <location>San Rafael, CA:</location>
+    <publisher>Systems Applications, Inc.;</publisher>
+    <genre>final report</genre>
+    <volume>no. SYSAPP-84/140.</volume>
+  </sequence>
+  <sequence>
+    <author>Hayes, S. R.; Austin, B. S.; Rosenbaum, A. S.</author>
+    <date>(1988)</date>
+    <title>A technique for assessing the effects of ROG and NOx reductions on acute ozone exposure and health risk in the south coast air basin.</title>
+    <location>San Rafael, CA:</location>
+    <publisher>Systems Applications, Inc.</publisher>
+  </sequence>
+  <sequence>
+    <author>Heck, W. W.; Taylor, O. C.; Adams, R.; Bingham, G.; Miller, J.; Preston, E.; Weinstein, L.</author>
+    <date>(1982)</date>
+    <title>Assessment of crop loss from ozone.</title>
+    <journal>J. Air Pollut. Control Assoc.</journal>
+    <volume>32:</volume>
+    <pages>353-361.</pages>
+  </sequence>
+  <sequence>
+    <author>Heuss, J. M.</author>
+    <date>(1982)</date>
+    <title>Comment on "Assessment of crop loss from ozone."</title>
+    <journal>J. Air Pollut. Control Assoc.</journal>
+    <volume>32:</volume>
+    <pages>1152-1153.</pages>
+  </sequence>
+  <sequence>
+    <author>Hong, S.; Candelone, J.-P.; Patterson, C. C.; Boutron, C. F.</author>
+    <date>(1994)</date>
+    <title>Greenland ice evidence of hemispheric lead pollution two millennia ago by Greek and Roman civilizations. Science</title>
+    <location>(Washington, DC)</location>
+    <volume>265:</volume>
+    <pages>1841-1843.</pages>
+  </sequence>
+  <sequence>
+    <author>Horstman, D. H.; Folinsbee, L. J.; Ives, P. J.; Abdul-Salaam, S.; McDonnell, W. F.</author>
+    <date>(1990)</date>
+    <title>Ozone concentration and pulmonary response relationships for 6.6-hour exposures with five hours of moderate exercise to 0.08, 0.10, and 0.12 ppm.</title>
+    <journal>Am. Rev. Respir. Dis.</journal>
+    <volume>142:</volume>
+    <pages>1158-1163.</pages>
+  </sequence>
+  <sequence>
+    <author>Husar, R. B.; Patterson, D. E.; Paley, C. C.; Gillani, N. V.</author>
+    <date>(1977)</date>
+    <title>Ozone in hazy air masses.</title>
+    <editor>In: Dimitriades, B., ed.</editor>
+    <container-title>International conference on photochemical oxidant pollution and its control. Proceedings:</container-title>
+    <volume>volume I;</volume>
+    <date>September 1976;</date>
+    <location>Raleigh,</location>
+    <publisher>NC. Research Triangle</publisher>
+    <location>Park, NC:</location>
+    <publisher>U.S. Environmental Protection Agency, Environmental Sciences Research Laboratory;</publisher>
+    <pages>pp. 275-282;</pages>
+    <volume>report no. EPA-600/3-77-001a.</volume>
+    <location>Available from:</location>
+    <publisher>NTIS,</publisher>
+    <location>Springfield, VA;</location>
+    <pages>PB-264232.</pages>
+  </sequence>
+  <sequence>
+    <author>Isaksen, I. S. A.; Hov, O.; Hesstvedt, E.</author>
+    <date>(1978)</date>
+    <title>Ozone generation over rural areas.</title>
+    <journal>Environ. Sci. Technol.</journal>
+    <volume>12:</volume>
+    <pages>1279-1284.</pages>
+  </sequence>
+  <sequence>
+    <author>Johnson, T. R.; Paul, R. A.; Capel, J. E.; McCurdy, T.</author>
+    <date>(1990)</date>
+    <title>Estimation of ozone exposure in Houston using a probabilistic version of NEM.</title>
+    <container-title>Presented at: 83rd annual meeting and exhibition of the Air &amp; Waste Management Association;</container-title>
+    <location>June; Pittsburgh, PA. Pittsburgh, PA:</location>
+    <publisher>Air &amp; Waste Management Association;</publisher>
+    <note>paper no. 90-150.1.</note>
+  </sequence>
+  <sequence>
+    <author>Johnson, T. R.; Wijnberg, L.; Capel, J. E.; Vostal, J. J.</author>
+    <date>(1992)</date>
+    <title>The use of activity diary data to estimate the probability of exposure to air pollution.</title>
+    <editor>In: Berglund, R. L., ed.</editor>
+    <container-title>Tropospheric ozone and the environment II: effects, modeling and control [papers from an international specialty conference]; November;</container-title>
+    <location>Atlanta, GA. Pittsburgh, PA:</location>
+    <publisher>Air &amp; Waste Management Association;</publisher>
+    <pages>pp. 713-724.</pages>
+    <note>(A&amp;WMA transactions series no. 20).</note>
+  </sequence>
+  <sequence>
+    <author>Jones, K.; Militana, L.; Martini, J.</author>
+    <date>(1989)</date>
+    <title>Ozone trend analysis for selected urban areas in the continental U.S.</title>
+    <container-title>Presented at: 82nd annual meeting and exhibition of the Air &amp; Waste Management Association;</container-title>
+    <location>June; Anaheim, CA. Pittsburgh, PA:</location>
+    <publisher>Air &amp; Waste Management Association;</publisher>
+    <note>paper no. 89-3.6.</note>
+  </sequence>
+  <sequence>
+    <author>Kelly, N. A.; Wolff, G. T.; Ferman, M. A.</author>
+    <date>(1982)</date>
+    <title>Background pollutant measurements in air masses affecting the eastern half of the United States - I. air masses arriving from the northwest.</title>
+    <journal>Atmos. Environ.</journal>
+    <volume>16:</volume>
+    <pages>1077-1088.</pages>
+  </sequence>
+  <sequence>
+    <author>Kelly, N. A.; Wolff, G. T.; Ferman, M. A.</author>
+    <date>(1984)</date>
+    <title>Sources and sinks of ozone in rural areas.</title>
+    <journal>Atmos. Environ.</journal>
+    <volume>18:</volume>
+    <pages>1251-1266.</pages>
+  </sequence>
+  <sequence>
+    <author>Kelly, N. A.; Ferman, M. A.; Wolff, G. T.</author>
+    <date>(1986)</date>
+    <title>The chemical and meteorological conditions associated with high and low ozone concentrations in southeastern Michigan and nearby areas of Ontario.</title>
+    <journal>J. Air Pollut. Control Assoc.</journal>
+    <volume>36:</volume>
+    <pages>150-158.</pages>
+  </sequence>
+  <sequence>
+    <author>Kleindienst, T. E.; Shepson, P. B.; Hodges, D. N.; Nero, C. M.; Arnts, R. R.; Dasgupta, P. K.; Hwang, H.; Kok, G. L.; Lind, J. A.; Lazrus, A. L.; Mackay, G. I.; Mayne, L. K.; Schiff, H. I.</author>
+    <date>(1988)</date>
+    <title>Comparison of techniques for measurement of ambient levels of hydrogen peroxide.</title>
+    <journal>Environ. Sci. Technol.</journal>
+    <volume>22:</volume>
+    <pages>53-61.</pages>
+  </sequence>
+  <sequence>
+    <author>Knudsen, H. P.; Lefohn, A. S.</author>
+    <date>(1988)</date>
+    <title>The use of geostatistics to characterize regional ozone exposures.</title>
+    <editor>In: Heck, W. W.; Taylor, O. C.; Tingey, D. T., eds.</editor>
+    <container-title>Assessment of crop loss from air pollutants: proceedings of an international conference;</container-title>
+    <date>October 1987;</date>
+    <location>Raleigh, NC. Essex, United Kingdom:</location>
+    <publisher>Elsevier Science Publishers, Ltd.;</publisher>
+    <pages>pp. 91-105.</pages>
+  </sequence>
+  <sequence>
+    <author>Kolaz, D. J.; Swinford, R. L.</author>
+    <date>(1990)</date>
+    <title>How to remove the influence of meteorology from the Chicago area ozone trend.</title>
+    <container-title>Presented at: 83rd annual meeting and exhibition of the Air &amp; Waste Management Association;</container-title>
+    <location>June; Pittsburgh, PA. Pittsburgh, PA:</location>
+    <publisher>Air &amp; Waste Management Association;</publisher>
+    <note>paper no. 90-97.5.</note>
+  </sequence>
+  <sequence>
+    <author>Korsog, P. E.; Wolff, G. T.</author>
+    <date>(1991)</date>
+    <title>An examination of urban ozone trends in the northeastern U.S.</title>
+    <date>(1973-1983)</date>
+    <title>using a robust statistical method.</title>
+    <journal>Atmos. Environ. Part B</journal>
+    <volume>25:</volume>
+    <pages>47-57.</pages>
+  </sequence>
+  <sequence>
+    <author>Kuntasai, G.; Chang, T. Y.</author>
+    <date>(1987)</date>
+    <title>Trends and relationships of O3, NOx and HC in the south coast air basin of California.</title>
+    <journal>JAPCA</journal>
+    <volume>37:</volume>
+    <pages>1158-1163.</pages>
+  </sequence>
+  <sequence>
+    <author>Lawson, D. R.; Dasgupta, P. K.; Kok, G. L.; Kaplan, I. R.; Sakugawa, H.; Mackay, G. I.</author>
+    <date>(1988)</date>
+    <title>Interlaboratory comparison of ambient hydrogen peroxide measurements in Los Angeles.</title>
+    <container-title>In: Proceedings of the 196th American Chemical Society national meeting; September;</container-title>
+    <location>Los Angeles, CA. Washington, DC:</location>
+    <publisher>American Chemical Society, Division of Environmental Chemistry.</publisher>
+  </sequence>
+  <sequence>
+    <author>Lebowitz, M. D.; Corman, G.; O’Rourke, M. K.; Holberg, C. J.</author>
+    <date>(1984)</date>
+    <title>Indoor-outdoor air pollution, allergen and meteorological monitoring in an arid southwest area.</title>
+    <journal>J. Air Pollut. Control Assoc.</journal>
+    <volume>34:</volume>
+    <pages>1035-1038.</pages>
+  </sequence>
+  <sequence>
+    <author>Lefohn, A. S.</author>
+    <date>(1984)</date>
+    <title>A comparison of ambient ozone exposures for selected nonurban sites.</title>
+    <container-title>Presented at: 77th annual meeting of the Air Pollution Control Association;</container-title>
+    <location>June; San Francisco, CA. Pittsburgh, PA:</location>
+    <publisher>Air Pollution Control Association;</publisher>
+    <pages>paper no. 84-104.1.</pages>
+  </sequence>
+  <sequence>
+    <author>Lefohn, A. S.</author>
+    <date>(1992a)</date>
+    <title>Ozone standards and their relevance for protecting vegetation.</title>
+    <editor>In: Lefohn, A. S., ed.</editor>
+    <title>Surface level ozone exposures and their effects on vegetation.</title>
+    <location>Chelsea, MI:</location>
+    <publisher>Lewis Publishers, Inc.;</publisher>
+    <pages>pp. 325-359.</pages>
+  </sequence>
+  <sequence>
+    <author>Lefohn, A. S.</author>
+    <date>(1992b)</date>
+    <title>The characterization of ambient ozone exposures.</title>
+    <editor>In: Lefohn, A. S., ed.</editor>
+    <title>Surface level ozone exposures and their effects on vegetation.</title>
+    <location>Chelsea, MI:</location>
+    <publisher>Lewis Publishers, Inc.;</publisher>
+    <pages>pp. 31-92.</pages>
+  </sequence>
+  <sequence>
+    <author>Lefohn, A. S.; Benedict, H. M.</author>
+    <date>(1983)</date>
+    <title>The potential for the interaction of acidic precipitation and ozone pollutant doses affecting agricultural crops.</title>
+    <container-title>Presented at: 76th annual meeting of the Air Pollution Control Association;</container-title>
+    <location>June; Atlanta, GA. Pittsburgh, PA:</location>
+    <publisher>Air Pollution Control Association;</publisher>
+    <genre>report no. 83-2.2.</genre>
+  </sequence>
+  <sequence>
+    <author>Lefohn, A. S.; Foley, J. K.</author>
+    <date>(1992)</date>
+    <title>NCLAN results and their application to the standard-setting process: protecting vegetation from surface ozone exposures.</title>
+    <journal>J. Air Waste Manage. Assoc.</journal>
+    <volume>42:</volume>
+    <pages>1046-1052.</pages>
+  </sequence>
+  <sequence>
+    <author>Lefohn, A. S.; Foley, J. K.</author>
+    <date>(1993)</date>
+    <title>Establishing relevant ozone standards to protect vegetation and human health: exposure/dose-response considerations.</title>
+    <journal>Air Waste</journal>
+    <volume>43:</volume>
+    <pages>106-112.</pages>
+  </sequence>
+  <sequence>
+    <author>Lefohn, A. S.; Jones, C. K.</author>
+    <date>(1986)</date>
+    <title>The characterization of ozone and sulfur dioxide air quality data for assessing possible vegetation effects.</title>
+    <journal>J. Air Pollut. Control Assoc.</journal>
+    <volume>36:</volume>
+    <pages>1123-1129.</pages>
+  </sequence>
+  <sequence>
+    <author>Lefohn, A. S.; Lucier, A. A.</author>
+    <date>(1991)</date>
+    <title>Spatial and temporal variability of ozone exposure in forested areas of the United States and Canada: 1978-1988.</title>
+    <journal>J. Air Waste Manage. Assoc.</journal>
+    <volume>41:</volume>
+    <pages>694-701.</pages>
+  </sequence>
+  <sequence>
+    <author>Lefohn, A. S.; Mohnen, V. A.</author>
+    <date>(1986)</date>
+    <title>The characterization of ozone, sulfur dioxide, and nitrogen dioxide for selected monitoring sites in the Federal Republic of Germany.</title>
+    <journal>J. Air Pollut. Control Assoc.</journal>
+    <volume>36:</volume>
+    <pages>1329-1337.</pages>
+  </sequence>
+  <sequence>
+    <author>Lefohn, A. S.; Runeckles, V. C.</author>
+    <date>(1987)</date>
+    <title>Establishing standards to protect vegetation - ozone exposure/dose considerations.</title>
+    <journal>Atmos. Environ.</journal>
+    <volume>21:</volume>
+    <pages>561-568.</pages>
+  </sequence>
+  <sequence>
+    <author>Lefohn, A. S.; Shadwick, D. S.</author>
+    <date>(1991)</date>
+    <title>Ozone, sulfur dioxide, and nitrogen dioxide trends at rural sites located in the United States.</title>
+    <journal>Atmos. Environ. Part A</journal>
+    <volume>25:</volume>
+    <pages>491-501.</pages>
+  </sequence>
+  <sequence>
+    <author>Lefohn, A. S.; Tingey, D. T.</author>
+    <date>(1984)</date>
+    <title>The co-occurrence of potentially phytotoxic concentrations of various gaseous air pollutants.</title>
+    <journal>Atmos. Environ.</journal>
+    <volume>18:</volume>
+    <pages>2521-2526.</pages>
+  </sequence>
+  <sequence>
+    <author>Lefohn, A. S.; Knudsen, H. P.; Logan, J. A.; Simpson, J.; Bhumralkar, C.</author>
+    <date>(1987a)</date>
+    <title>An evaluation of the kriging method to predict 7-h seasonal mean ozone concentrations for estimating crop losses.</title>
+    <journal>JAPCA</journal>
+    <volume>37:</volume>
+    <pages>595-602.</pages>
+  </sequence>
+  <sequence>
+    <author>Lefohn, A. S.; Davis, C. E.; Jones, C. K.; Tingey, D. T.; Hogsett, W. E.</author>
+    <date>(1987b)</date>
+    <title>Co-occurrence patterns of gaseous air pollutant pairs at different minimum concentrations in the United States.</title>
+    <journal>Atmos. Environ.</journal>
+    <volume>21:</volume>
+    <pages>2435-2444.</pages>
+  </sequence>
+  <sequence>
+    <author>Lefohn, A. S.; Knudsen, H. P.; McEvoy, L. R., Jr.</author>
+    <date>(1988a)</date>
+    <title>The use of kriging to estimate monthly ozone exposure parameters for the southeastern United States.</title>
+    <journal>Environ. Pollut.</journal>
+    <volume>53:</volume>
+    <pages>27-42.</pages>
+  </sequence>
+  <sequence>
+    <author>Lefohn, A. S.; Laurence, J. A.; Kohut, R. J.</author>
+    <date>(1988b)</date>
+    <title>A comparison of indices that describe the relationship between exposure to ozone and reduction in the yield of agricultural crops.</title>
+    <journal>Atmos. Environ.</journal>
+    <volume>22:</volume>
+    <pages>1229-1240.</pages>
+  </sequence>
+  <sequence>
+    <author>Lefohn, A. S.; Runeckles, V. C.; Krupa, S. V.; Shadwick, D. S.</author>
+    <date>(1989)</date>
+    <title>Important considerations for establishing a secondary ozone standard to protect vegetation.</title>
+    <journal>JAPCA</journal>
+    <volume>39:</volume>
+    <pages>1039-1045.</pages>
+  </sequence>
+  <sequence>
+    <author>Lefohn, A. S.; Krupa, S. V.; Winstanley, D.</author>
+    <date>(1990a)</date>
+    <title>Surface ozone exposures measured at clean locations around the world.</title>
+    <journal>Environ. Pollut.</journal>
+    <volume>63:</volume>
+    <pages>189-224.</pages>
+  </sequence>
+  <sequence>
+    <author>Lefohn, A. S.; Shadwick, D. S.; Mohnen, V. A.</author>
+    <date>(1990b)</date>
+    <title>The characterization of ozone concentrations at a select set of high-elevation sites in the eastern United States.</title>
+    <journal>Environ. Pollut.</journal>
+    <volume>67:</volume>
+    <pages>147-178.</pages>
+  </sequence>
+  <sequence>
+    <author>Lefohn, A. S.; Benkovitz, C. M.; Tanner, R. L.; Smith, L. A.; Shadwick, D. S.</author>
+    <date>(1991)</date>
+    <title>Air quality measurements and characterizations for terrestrial effects research.</title>
+    <editor>In: Irving, P. M., ed.</editor>
+    <title>Acidic deposition: state of science and technology, volume I, emissions, atmospheric processes, and deposition.</title>
+    <location>Washington, DC:</location>
+    <publisher>The U.S. National Acid Precipitation Assessment Program.</publisher>
+    <note>(State of science and technology report no. 7).</note>
+  </sequence>
+  <sequence>
+    <author>Lefohn, A. S.; Shadwick, D. S.; Somerville, M. C.; Chappelka, A. H.; Lockaby, B. G.; Meldahl, R. S.</author>
+    <date>(1992a)</date>
+    <title>The characterization and comparision of ozone exposure indices used in assessing the response of loblolly pine to ozone.</title>
+    <journal>Atmos. Environ. Part A</journal>
+    <volume>26:</volume>
+    <pages>287-298.</pages>
+  </sequence>
+  <sequence>
+    <author>Lefohn, A. S.; Knudsen, H. P.; Shadwick, D. S.; Hermann, K. A.</author>
+    <date>(1992b)</date>
+    <title>Surface ozone exposures in the eastern United States (1985-1989).</title>
+    <editor>In: Flagler, R. B., ed.</editor>
+    <container-title>The response of southern commercial forests to air pollution: papers from an international specialty conference;</container-title>
+    <date>November 1991;</date>
+    <location>Atlanta, GA. Pittsburgh, PA:</location>
+    <publisher>Air &amp; Waste Management Association;</publisher>
+    <pages>pp. 81-93.</pages>
+    <note>(A&amp;WMA transactions series:</note>
+    <volume>no. 21).</volume>
+  </sequence>
+  <sequence>
+    <author>Lefohn, A. S.; Shadwick, D. S.; Feister, U.; Mohnen, V. A.</author>
+    <date>(1992c)</date>
+    <title>Surface-level ozone: climate change and evidence for trends.</title>
+    <journal>J. Air Waste Manage. Assoc.</journal>
+    <volume>42:</volume>
+    <pages>136-144.</pages>
+  </sequence>
+  <sequence>
+    <author>Lefohn, A. S.; Foley, J. K.; Shadwick, D. S.; Tilton, B. E.</author>
+    <date>(1993a)</date>
+    <title>Changes in diurnal patterns related to changes in ozone levels.</title>
+    <journal>Air Waste</journal>
+    <volume>43:</volume>
+    <pages>1472-1478.</pages>
+  </sequence>
+  <sequence>
+    <author>Lefohn, A. S.; Foley, J. K.; Tilton, B. E.</author>
+    <date>(1993b)</date>
+    <title>Changes in ozone concentration regimes as a function of change in site attainment status.</title>
+    <editor>In: Vostal, J. J., ed.</editor>
+    <container-title>Tropospheric ozone: nonattainment and design value issues [proceedings of a U.S. EPA/A&amp;WMA international specialty conference];</container-title>
+    <date>October 1992;</date>
+    <location>Boston, MA. Pittsburgh, PA:</location>
+    <publisher>Air &amp; Waste Management Association;</publisher>
+    <pages>pp. 477-488.</pages>
+    <note>(A&amp;WMA transactions series no. 23).</note>
+  </sequence>
+  <sequence>
+    <author>Lindsay, R. W.; Chameides, W. L.</author>
+    <date>(1988)</date>
+    <title>High-ozone events in Atlanta,</title>
+    <location>Georgia,</location>
+    <date>in 1983 and 1984.</date>
+    <title>Environ.</title>
+    <journal>Sci. Technol.</journal>
+    <volume>22:</volume>
+    <pages>426-431.</pages>
+  </sequence>
+  <sequence>
+    <author>Lindsay, R. W.; Richardson, J. L.; Chameides, W. L.</author>
+    <date>(1989)</date>
+    <title>Ozone trends in Atlanta, Georgia: have emission controls been effective?</title>
+    <journal>JAPCA</journal>
+    <volume>39:</volume>
+    <pages>40-43.</pages>
+  </sequence>
+  <sequence>
+    <author>Lioy, P. J.</author>
+    <date>(1989)</date>
+    <title>Exposure assessment of oxidant gases and acidic aerosols.</title>
+    <journal>Annu. Rev. Public Health</journal>
+    <volume>10:</volume>
+    <pages>69-84.</pages>
+  </sequence>
+  <sequence>
+    <author>Lioy, P. J.; Dyba, R. V.</author>
+    <date>(1989)</date>
+    <title>The dynamics of human exposure to tropospheric ozone.</title>
+    <editor>In: Schneider, T.; Lee, S. D.; Wolters, G. J. R.; Grant, L. D., eds.</editor>
+    <title>Atmospheric ozone research and its policy implications:</title>
+    <container-title>proceedings of the 3rd US-Dutch international symposium;</container-title>
+    <date>May 1988;</date>
+    <location>Nijmegen, The Netherlands. Amsterdam, The Netherlands:</location>
+    <publisher>Elsevier Science Publishers;</publisher>
+    <pages>pp. 711-721.</pages>
+    <note>(Studies in environmental science 35).</note>
+  </sequence>
+  <sequence>
+    <author>Lioy, P. J.; Waldman, J. M.</author>
+    <date>(1989)</date>
+    <title>Acidic sulfate aerosols: characterization and exposure.</title>
+    <container-title>In: Symposium on the health effects of acid aerosols;</container-title>
+    <date>October 1987;</date>
+    <journal>Research Triangle Park, NC. Environ. Health Perspect.</journal>
+    <volume>79:</volume>
+    <pages>15-34.</pages>
+  </sequence>
+  <sequence>
+    <author>Lisac, I.; Grubisic, V.</author>
+    <date>(1991)</date>
+    <title>An analysis of surface ozone data measured at the end of the 19th century in Zagreb, Yugoslavia.</title>
+    <journal>Atmos. Environ. Part A</journal>
+    <volume>25:</volume>
+    <pages>481-486.</pages>
+  </sequence>
+  <sequence>
+    <author>Liu, L.-J. S.; Koutrakis, P.; Suh, H. H.; Mulik, J. D.; Burton, R. M.</author>
+    <date>(1993)</date>
+    <title>Use of personal measurements for ozone exposure assessment: a pilot study.</title>
+    <journal>Environ. Health Perspect.</journal>
+    <volume>101:</volume>
+    <pages>318-324.</pages>
+  </sequence>
+  <sequence>
+    <author>Lloyd, A. C.; Lents, J. M.; Green, C.; Nemeth, P.</author>
+    <date>(1989)</date>
+    <title>Air quality management in Los Angeles: perspectives on past and future emission control strategies.</title>
+    <journal>JAPCA</journal>
+    <volume>39:</volume>
+    <pages>696-703.</pages>
+  </sequence>
+  <sequence>
+    <author>Logan, J. A.</author>
+    <date>(1985)</date>
+    <title>Tropospheric ozone: seasonal behavior, trends, and anthropogenic influence.</title>
+    <journal>J. Geophys. Res. [Atmos.]</journal>
+    <volume>90:</volume>
+    <pages>10,463-10,482.</pages>
+  </sequence>
+  <sequence>
+    <author>Logan, J. A.</author>
+    <date>(1989)</date>
+    <title>Ozone in rural areas of the United States.</title>
+    <journal>J. Geophys. Res. [Atmos.]</journal>
+    <volume>94:</volume>
+    <pages>8511-8532.</pages>
+  </sequence>
+  <sequence>
+    <author>Logan, J. A.</author>
+    <date>(1994)</date>
+    <title>Trends in the vertical distribution of ozone: an analysis of ozonesonde data.</title>
+    <journal>J. Geophys. Res. [Atmos.]</journal>
+    <volume>99:</volume>
+    <pages>25,553-25,585.</pages>
+  </sequence>
+  <sequence>
+    <author>Lurmann, F.; Colome, S.</author>
+    <date>(1991)</date>
+    <title>An assessment of current and future human exposure to ozone in the South Coast Air Basin.</title>
+    <location>Santa Rosa, CA:</location>
+    <publisher>Sonoma Technology, Inc.;</publisher>
+    <genre>report no. STI-90070-1022-FR;</genre>
+    <date>1991</date>
+    <genre>AQMP revision, technical report V-H.</genre>
+  </sequence>
+  <sequence>
+    <author>Lurmann, F. W.; Coyner, L.; Winer, A. M.; Colome, S.</author>
+    <date>(1989)</date>
+    <title>Development of a new regional human exposure (REHEX) model and its application to the California South Coast Air Basin.</title>
+    <container-title>Presented at: 82nd annual meeting and exhibition of the Air &amp; Waste Management Association;</container-title>
+    <location>June; Anaheim, CA. Pittsburgh, PA:</location>
+    <publisher>Air &amp; Waste Management Association;</publisher>
+    <note>paper no. 89-27.5.</note>
+  </sequence>
+  <sequence>
+    <author>Lurmann, F. W.; Winer, A. M.; Colome, S. D.</author>
+    <date>(1990)</date>
+    <title>Development and application of a new regional human exposure (REHEX) model.</title>
+    <container-title>In: Total exposure assessment methodology: proceedings of the EPA/A&amp;WMA specialty conference;</container-title>
+    <date>November 1989;</date>
+    <title>Las Vegas, NV.</title>
+    <location>Pittsburgh, PA:</location>
+    <publisher>Air &amp; Waste Management Association;</publisher>
+    <pages>pp. 478-498.</pages>
+    <note>(A&amp;WMA publication VIP-16).</note>
+  </sequence>
+  <sequence>
+    <author>Mage, D. T.; Raizenne, M.; Spengler, J.</author>
+    <date>(1985)</date>
+    <title>The assessment of individual human exposures to ozone in a health study.</title>
+    <editor>In: Lee, S. D., ed.</editor>
+    <title>Evaluation of the scientific basis for ozone/oxidants standards:</title>
+    <container-title>transactions of an APCA international specialty conference;</container-title>
+    <date>November 1984;</date>
+    <location>Houston, TX. Pittsburgh, PA:</location>
+    <publisher>Air Pollution Control Association;</publisher>
+    <pages>pp. 238-249;</pages>
+    <volume>report no. TR-4.</volume>
+  </sequence>
+  <sequence>
+    <author>Matheron, G.</author>
+    <date>(1963)</date>
+    <title>Principles of geostatistics.</title>
+    <journal>Econ. Geol.</journal>
+    <volume>58:</volume>
+    <pages>1246-1266.</pages>
+  </sequence>
+  <sequence>
+    <author>McCurdy, T.</author>
+    <date>(1988)</date>
+    <title>Relationships among ozone air quality indicators in urban areas.</title>
+    <editor>In: Wolff, G. T.; Hanisch, J. L.; Schere, K., eds.</editor>
+    <title>The scientific and technical issues facing post-1987 ozone control strategies;</title>
+    <container-title>transactions of an APCA specialty conference;</container-title>
+    <date>November 1987;</date>
+    <location>Hartford, CT. Pittsburgh, PA:</location>
+    <publisher>Air &amp; Waste Management Association;</publisher>
+    <pages>pp. 331-342.</pages>
+  </sequence>
+  <sequence>
+    <author>McCurdy, T. R.</author>
+    <date>(1994)</date>
+    <title>Human exposure to ambient ozone.</title>
+    <editor>In: McKee, D. J., ed.</editor>
+    <title>Tropospheric ozone: human health and agricultural impacts.</title>
+    <location>Boca Raton, FL:</location>
+    <publisher>Lewis Publishers;</publisher>
+    <pages>pp. 85-127.</pages>
+  </sequence>
+  <sequence>
+    <author>McCurdy, T.; Capel, J. E.; Paul, R. A.; Johnson, T.</author>
+    <date>(1991)</date>
+    <title>Preliminary analysis of ozone exposures in Houston using pNEM/O3.</title>
+    <container-title>Presented at: 84th annual meeting and exhibition of the Air &amp; Waste Management Association;</container-title>
+    <location>June; Vancouver, BC, Canada. Pittsburgh, PA:</location>
+    <publisher>Air &amp; Waste Management Association;</publisher>
+    <note>paper no. 91-141.1.</note>
+  </sequence>
+  <sequence>
+    <author>McDonnell, W. F.; Kehrl, H. R.; Abdul-Salaam, S.; Ives, P. J.; Folinsbee, L. J.; Devlin, R. B.; O’Neil, J. J.; Horstman, D. H.</author>
+    <date>(1991)</date>
+    <title>Respiratory response of humans exposed to low levels of ozone for 6.6 hours.</title>
+    <journal>Arch. Environ. Health</journal>
+    <volume>46:</volume>
+    <pages>145-150.</pages>
+  </sequence>
+  <sequence>
+    <author>Meagher, J. F.; Lee, N. T.; Valente, R. J.; Parkhurst, W. J.</author>
+    <date>(1987)</date>
+    <title>Rural ozone in the southeastern United States.</title>
+    <journal>Atmos. Environ.</journal>
+    <volume>21:</volume>
+    <pages>605-615.</pages>
+  </sequence>
+  <sequence>
+    <author>Meyer, B.</author>
+    <date>(1983)</date>
+    <title>Indoor air quality.</title>
+    <location>Reading, MA:</location>
+    <publisher>Addison-Wesley Publishing Company, Inc.</publisher>
+  </sequence>
+  <sequence>
+    <author>Mohnen, V. A.</author>
+    <date>(1989)</date>
+    <title>Mountain cloud chemistry project: wet, dry and cloud water deposition. Research Triangle Park, NC: U.S.</title>
+    <journal>Environmental Protection Agency, Atmospheric Research and Exposure Assessment Laboratory;</journal>
+    <volume>report no. EPA/600/3-89/009.</volume>
+    <location>Available from:</location>
+    <publisher>NTIS,</publisher>
+    <location>Springfield, VA;</location>
+    <pages>PB89-148597.</pages>
+  </sequence>
+  <sequence>
+    <author>Mohnen, V. A.; Kadlecek, J. A.</author>
+    <date>(1989)</date>
+    <title>Cloud chemistry research at Whiteface Mountain.</title>
+    <journal>Tellus Ser. B</journal>
+    <volume>41B:</volume>
+    <pages>79-91.</pages>
+  </sequence>
+  <sequence>
+    <author>Mohnen, V. A.; Hogan, A.; Coffey, P.</author>
+    <date>(1977)</date>
+    <title>Ozone measurements in rural areas.</title>
+    <journal>J. Geophys. Res.</journal>
+    <volume>82:</volume>
+    <pages>5889-5895.</pages>
+  </sequence>
+  <sequence>
+    <author>Moschandreas, D. J.; Stark, J. W. C.; McFadden, J. E.; Morse, S. S.</author>
+    <date>(1978)</date>
+    <title>Indoor air pollution in the residential environment: volume I. data collection, analysis, and interpretation. Research Triangle Park, NC: U.S.</title>
+    <journal>Environmental Protection Agency, Environmental Monitoring and Support Laboratory;</journal>
+    <volume>report no. EPA-600/7-78-229a.</volume>
+    <location>Available from:</location>
+    <publisher>NTIS,</publisher>
+    <location>Springfield, VA;</location>
+    <pages>PB-290999.</pages>
+  </sequence>
+  <sequence>
+    <author>Moschandreas, D. J.; Zabransky, J.; Pelton, D. J.</author>
+    <date>(1981)</date>
+    <title>Comparison of indoor and outdoor air quality.</title>
+  </sequence>
+  <sequence>
+    <author>Palo Alto,</author>
+    <title>CA: Electric Power Research Institute;</title>
+    <genre>EPRI report no. EA-1733.</genre>
+  </sequence>
+  <sequence>
+    <author>National Acid Precipitation Assessment Program.</author>
+    <date>(1987)</date>
+    <title>Interim assessment: the causes and effects of acidic deposition,</title>
+    <volume>volume I,</volume>
+    <genre>executive summary.</genre>
+    <location>Washington, DC:</location>
+    <publisher>Office of the Director of Research.</publisher>
+  </sequence>
+  <sequence>
+    <author>National Research Council.</author>
+    <date>(1991)</date>
+    <title>Rethinking the ozone problem in urban and regional air pollution.</title>
+    <location>Washington, DC:</location>
+    <publisher>National Academy Press.</publisher>
+  </sequence>
+  <sequence>
+    <author>Nazaroff, W. W.; Cass, G. R.</author>
+    <date>(1986)</date>
+    <title>Mathematical modeling of chemically reactive pollutants in indoor air.</title>
+    <journal>Environ. Sci. Technol.</journal>
+    <volume>20:</volume>
+    <pages>924-934.</pages>
+  </sequence>
+  <sequence>
+    <author>O’Gara, P. J.</author>
+    <date>(1922)</date>
+    <title>Sulfur dioxide and fume problems and their solution.</title>
+    <container-title>(presented at the 14th semiannual meeting of the American Institute of Chemical Engineers, Niagara Falls,</container-title>
+    <location>Canada,</location>
+    <date>June 19-22, 1922).</date>
+  </sequence>
+  <sequence>
+    <title>Presented at: 14th semiannual meeting of the American Institute of Chemical Engineers; June; Niagara Falls, Canada.</title>
+    <journal>Proceedings and papers of the meeting summarized in J. Ind. Eng. Chem.</journal>
+    <volume>14:</volume>
+    <pages>744-745</pages>
+    <note>by J. C. Olsen.</note>
+  </sequence>
+  <sequence>
+    <author>Olszyna, K. J.; Meagher, J. F.; Bailey, E. M.</author>
+    <date>(1988)</date>
+    <title>Gas-phase, cloud and rain-water measurements of hydrogen peroxide at a high-elevation site.</title>
+    <journal>Atmos. Environ.</journal>
+    <volume>22:</volume>
+    <pages>1699-1706.</pages>
+  </sequence>
+  <sequence>
+    <author>Olszyk, D. M.; Bytnerowicz, A.; Takemoto, B. K.</author>
+    <date>(1989)</date>
+    <title>Photochemical oxidant pollution and vegetation: effects of gases, fog, and particles.</title>
+    <journal>Environ. Pollut.</journal>
+    <volume>61:</volume>
+    <pages>11-29.</pages>
+  </sequence>
+  <sequence>
+    <author>Paul, R. A.; Biller, W. F.; McCurdy, T.</author>
+    <date>(1987)</date>
+    <title>National estimates of population exposure to ozone.</title>
+    <container-title>Presented at: 80th annual meeting of the Air Pollution Control Association;</container-title>
+    <location>June; New York, NY. Pittsburgh, PA:</location>
+    <publisher>Air Pollution Control Association;</publisher>
+    <note>paper no. 87-42.7.</note>
+  </sequence>
+  <sequence>
+    <author>Peake, E.; Sandhu, H. S.</author>
+    <date>(1983)</date>
+    <title>The formation of ozone and peroxyacetyl nitrate (PAN) in the urban atmospheres of Alberta.</title>
+    <journal>Can. J. Chem.</journal>
+    <volume>61:</volume>
+    <pages>927-935.</pages>
+  </sequence>
+  <sequence>
+    <author>Peake, E.; MacLean, M. A.; Sandhu, H. S.</author>
+    <date>(1983)</date>
+    <title>Surface ozone and peroxyacetyl nitrate (PAN) observations at rural locations in Alberta, Canada.</title>
+    <journal>J. Air Pollut. Control Assoc.</journal>
+    <volume>33:</volume>
+    <pages>881-883.</pages>
+  </sequence>
+  <sequence>
+    <author>Peake, E.; MacLean, M. A.; Lester, P. F.; Sandhu, H. S.</author>
+    <date>(1988)</date>
+    <title>Peroxyacetylnitrate (PAN) in the atmosphere of Edmonton, Alberta, Canada.</title>
+    <journal>Atmos. Environ.</journal>
+    <volume>22:</volume>
+    <pages>973-981.</pages>
+  </sequence>
+  <sequence>
+    <author>Pedersen, U.; Lefohn, A. S.</author>
+    <date>(1994)</date>
+    <title>Characterizing surface ozone concentrations in Norway.</title>
+    <journal>Atmos. Environ.</journal>
+    <volume>28:</volume>
+    <pages>89-101.</pages>
+  </sequence>
+  <sequence>
+    <author>Pinkerton, J. E.; Lefohn, A. S.</author>
+    <date>(1986)</date>
+    <title>Characterization of ambient ozone concentrations in commercial timberlands using available monitoring data.</title>
+    <journal>Tappi J.</journal>
+    <volume>69:</volume>
+    <pages>58-62.</pages>
+  </sequence>
+  <sequence>
+    <author>Pratt, G. C.; Hendrickson, R. C.; Chevone, B. I.; Christopherson, D. A.; O’Brien, M. V.; Krupa, S. V.</author>
+    <date>(1983)</date>
+    <title>Ozone and oxides of nitrogen in the rural upper-midwestern U.S.A.</title>
+    <journal>Atmos. Environ.</journal>
+    <volume>17:</volume>
+    <pages>2013-2023.</pages>
+  </sequence>
+  <sequence>
+    <author>Prinz, B.; Krause, G. H. M.</author>
+    <date>(1988)</date>
+    <title>State of scientific discussion about the causes of the novel forest decline in the Federal Republic of Germany and surrounding countries.</title>
+    <container-title>Presented at: 15th international meeting for specialists in air pollution effects on forest ecosystems;</container-title>
+    <location>October; Interlaken, Switzerland.</location>
+    <publisher>IUFRO.</publisher>
+  </sequence>
+  <sequence>
+    <author>Prinz, B.; Krause, G. H. M.; Jung, K.-D.</author>
+    <date>(1985)</date>
+    <title>Untersuchungen der LIS Essen zur Problematik der Waldschäden [Investigations of the LIS Essen into the problem of forest damage].</title>
+    <editor>In: Kortzfleisch, G., ed.</editor>
+    <container-title>Waldschäden: Theorie und Praxis auf der Suche nach Antworten [Forest damage: theory and practice in the search for answers]. München,</container-title>
+    <location>Germany:</location>
+    <publisher>R. Oldenbourg Verlag;</publisher>
+    <pages>pp. 143-194.</pages>
+  </sequence>
+  <sequence>
+    <author>Raizenne, M. E.; Spengler, J. D.</author>
+    <date>(1989)</date>
+    <title>Dosimetric model of acute health effects of ozone and acid aerosols in children.</title>
+    <editor>In: Schneider, T.; Lee, S. D.; Wolters, G. J. R.; Grant, L. D., eds.</editor>
+    <title>Atmospheric ozone research and its policy implications:</title>
+    <container-title>proceedings of the 3rd US-Dutch international symposium;</container-title>
+    <date>May 1988;</date>
+    <location>Nijmegen, The Netherlands. Amsterdam, The Netherlands:</location>
+    <publisher>Elsevier Science Publishers;</publisher>
+    <pages>pp. 319-329.</pages>
+    <note>(Studies in environmental science 35).</note>
+  </sequence>
+  <sequence>
+    <author>Rao, S. T.; Sistla, G.; Henry, R.</author>
+    <date>(1992)</date>
+    <title>Statistical analysis of trends in urban ozone air quality.</title>
+    <journal>J. Air Waste Manage. Assoc.</journal>
+    <volume>42:</volume>
+    <pages>1204-1211.</pages>
+  </sequence>
+  <sequence>
+    <author>Reagan, J.</author>
+    <date>(1984)</date>
+    <title>Air quality data interpretation.</title>
+    <editor>In: Heck, W.</editor>
+    <author>W.; Taylor, O. C.; Adams, R. M.; Bingham, G. E.; Miller, J. E.; Preston, E. M.; Weinstein,</author>
+    <editor>L. H., eds.</editor>
+    <container-title>National Crop Loss Assessment Network (NCLAN) 1982 annual report.</container-title>
+    <location>Corvallis, OR:</location>
+    <publisher>U.S. Environmental Protection Agency, Corvallis Environmental Research Laboratory;</publisher>
+    <pages>pp. 198-219;</pages>
+    <volume>report no. EPA-600/4-84-049.</volume>
+    <location>Available from:</location>
+    <publisher>NTIS,</publisher>
+    <location>Springfield, VA;</location>
+    <pages>PB84-169358/HSU.</pages>
+  </sequence>
+  <sequence>
+    <author>Reiter, E. R.</author>
+    <date>(1977a)</date>
+    <title>Review and analysis.</title>
+    <editor>In: Mohnen, V. A.; Reiter, E. R., eds.</editor>
+    <container-title>International conference on oxidants,</container-title>
+    <date>1976</date>
+    <title>- analysis of evidence and viewpoints; part III. the issue of stratospheric ozone intrusion.</title>
+    <location>Research Triangle Park, NC:</location>
+    <publisher>U.S. Environmental Protection Agency, Environmental Sciences Research Laboratory;</publisher>
+    <pages>pp. 67-117;</pages>
+    <volume>report no. EPA-600/3-77-115.</volume>
+    <location>Available from:</location>
+    <publisher>NTIS,</publisher>
+    <location>Springfield, VA;</location>
+    <pages>PB-279010.</pages>
+  </sequence>
+  <sequence>
+    <author>Reiter, E. R.</author>
+    <date>(1977b)</date>
+    <title>The role of stratospheric import on tropospheric ozone concentrations.</title>
+    <editor>In: Dimitriades, B., ed.</editor>
+    <container-title>International conference on photochemical oxidant pollution and its control - proceedings:</container-title>
+    <volume>volume I;</volume>
+    <date>September 1976;</date>
+    <location>Raleigh,</location>
+    <publisher>NC. Research Triangle</publisher>
+    <location>Park, NC:</location>
+    <publisher>U.S. Environmental Protection Agency, Environmental Sciences Research Laboratory;</publisher>
+    <pages>pp. 393-410;</pages>
+    <volume>report no. EPA-600/3-77-001a.</volume>
+    <location>Available from:</location>
+    <publisher>NTIS,</publisher>
+    <location>Springfield, VA;</location>
+    <pages>PB-264232.</pages>
+  </sequence>
+  <sequence>
+    <author>Ridley, B. A.</author>
+    <date>(1991)</date>
+    <title>Recent measurements of oxidized nitrogen compounds in the troposphere.</title>
+    <journal>Atmos. Environ. Part A</journal>
+    <volume>25:</volume>
+    <pages>1905-1926.</pages>
+  </sequence>
+  <sequence>
+    <author>Ridley, B. A.; Shetter, J. D.; Walega, J. G.; Madronich, S.; Elsworth, C. M.; Grahek, F. E.; Fehsenfeld, F. C.; Norton, R. B.; Parrish, D. D.; Hübler, G.; Buhr, M.; Williams, E. J.; Allwine, E. J.; Westberg, H. H.</author>
+    <date>(1990)</date>
+    <title>The behavior of some organic nitrates at Boulder and Niwot Ridge, Colorado.</title>
+    <journal>J. Geophys. Res. [Atmos.]</journal>
+    <volume>95:</volume>
+    <pages>13,949-13,961.</pages>
+  </sequence>
+  <sequence>
+    <author>Runeckles, V. C.</author>
+    <date>(1974)</date>
+    <title>Dosage of air pollutants and damage to vegetation.</title>
+    <journal>Environ. Conserv.</journal>
+    <volume>1:</volume>
+    <pages>305-308.</pages>
+  </sequence>
+  <sequence>
+    <author>Runeckles, V. C.; Bates, D. V.</author>
+    <date>(1991)</date>
+    <title>The form of the ozone standard in relation to vegetation and health effects.</title>
+    <container-title>Presented at: 84th annual meeting and exhibition of the Air &amp; Waste Management Association;</container-title>
+    <location>June; Vancouver, BC, Canada. Pittsburgh, PA:</location>
+    <publisher>Air &amp; Waste Management Association;</publisher>
+    <note>paper no. 91-74.3.</note>
+  </sequence>
+  <sequence>
+    <author>Sabersky, R. H.; Sinema, D. A.; Shair, F. H.</author>
+    <date>(1973)</date>
+    <title>Concentrations, decay rates, and removal of ozone and their relation to establishing clean indoor air.</title>
+    <journal>Environ. Sci. Technol.</journal>
+    <volume>7:</volume>
+    <pages>347-353.</pages>
+  </sequence>
+  <sequence>
+    <author>Sakugawa, H.; Kaplan, I. R.</author>
+    <date>(1989)</date>
+    <title>H2O2 and O3 in the atmosphere of Los Angeles and its vicinity: factors controlling their formation and their role as oxidants of SO2.</title>
+    <journal>J. Geophys. Res. [Atmos.]</journal>
+    <volume>94:</volume>
+    <pages>12,957-12,973.</pages>
+  </sequence>
+  <sequence>
+    <author>Sakugawa, H.; Kaplan, I. R.</author>
+    <date>(1993)</date>
+    <title>Comparison of H2O2 and O3 content in atmospheric samples in the San Bernardino mountains, southern California.</title>
+    <journal>Atmos. Environ. Part A</journal>
+    <volume>27:</volume>
+    <pages>1509-1515.</pages>
+  </sequence>
+  <sequence>
+    <author>Sakugawa, H.; Kaplan, I. R.; Tsai, W.; Cohen, Y.</author>
+    <date>(1990)</date>
+    <title>Atmospheric hydrogen peroxide: does it share a role with ozone in degrading air quality? Environ.</title>
+    <journal>Sci. Technol.</journal>
+    <volume>24:</volume>
+    <pages>1452-1462.</pages>
+  </sequence>
+  <sequence>
+    <author>Sexton, K.; Ryan, P. B.</author>
+    <date>(1988)</date>
+    <title>Assessment of human exposure to air pollution: methods, measurements, and models.</title>
+    <editor>In: Watson, A. Y.; Bates, R. R.; Kennedy, D., eds.</editor>
+    <title>Air pollution, the automobile, and public health.</title>
+    <location>Washington, DC:</location>
+    <publisher>National Academy Press;</publisher>
+    <pages>pp. 207-238.</pages>
+  </sequence>
+  <sequence>
+    <author>Shair, F. H.; Heitner, K. L.</author>
+    <date>(1974)</date>
+    <title>Theoretical model for relating indoor pollutant concentrations to those outside.</title>
+    <journal>Environ. Sci. Technol.</journal>
+    <volume>8:</volume>
+    <pages>444-451.</pages>
+  </sequence>
+  <sequence>
+    <author>Shaver, C. L.; Cass, G. R.; Druzik, J. R.</author>
+    <date>(1983)</date>
+    <title>Ozone and the deterioration of works of art.</title>
+    <journal>Environ. Sci. Technol.</journal>
+    <volume>17:</volume>
+    <pages>748-752.</pages>
+  </sequence>
+  <sequence>
+    <author>Shively, T. S.</author>
+    <date>(1991)</date>
+    <title>An analysis of the trend in ground-level ozone using non-homogeneous Poisson processes.</title>
+    <journal>Atmos. Environ. Part B</journal>
+    <volume>25:</volume>
+    <pages>387-395.</pages>
+  </sequence>
+  <sequence>
+    <author>Showman, R. E.</author>
+    <date>(1991)</date>
+    <title>A comparison of ozone injury to vegetation during moist and drought years.</title>
+    <journal>J. Air Waste Manage. Assoc.</journal>
+    <volume>41:</volume>
+    <pages>63-64.</pages>
+  </sequence>
+  <sequence>
+    <author>Singh, H. B.; Salas, L. J.</author>
+    <date>(1989)</date>
+    <title>Measurements of peroxyacetyl nitrate (PAN) and peroxypropionyl nitrate (PPN) at selected urban, rural and remote sites.</title>
+    <journal>Atmos. Environ.</journal>
+    <volume>23:</volume>
+    <pages>231-238.</pages>
+  </sequence>
+  <sequence>
+    <author>Singh, H. B.; Ludwig, F. L.; Johnson, W. B.</author>
+    <date>(1977)</date>
+    <title>Ozone in clean remote atmospheres: concentrations and variabilities.</title>
+    <location>New York, NY:</location>
+    <publisher>Coordinating Research Council, Inc.;</publisher>
+    <genre>report no. CRC-APRAC CAPA-15-76.</genre>
+    <location>Available from:</location>
+    <publisher>NTIS,</publisher>
+    <location>Springfield, VA;</location>
+    <pages>PB-272290.</pages>
+  </sequence>
+  <sequence>
+    <author>Singh, H. B.; Ludwig, F. L.; Johnson, W. B.</author>
+    <date>(1978)</date>
+    <title>Tropospheric ozone: concentrations and variabilities in clean remote atmospheres.</title>
+    <journal>Atmos. Environ.</journal>
+    <volume>12:</volume>
+    <pages>2185-2196.</pages>
+  </sequence>
+  <sequence>
+    <author>Smith, L. A.; Lefohn, A. S.</author>
+    <date>(1991)</date>
+    <title>Co-occurence of ozone and wet deposited hydrogen ion in the United States.</title>
+    <journal>Atmos. Environ. Part A</journal>
+    <volume>25:</volume>
+    <pages>2707-2716.</pages>
+  </sequence>
+  <sequence>
+    <author>Spektor, D. M.; Lippmann, M.; Lioy, P. J.; Thurston, G. D.; Citak, K.; James, D. J.; Bock, N.; Speizer, F. E.; Hayes, C.</author>
+    <date>(1988)</date>
+    <title>Effects of ambient ozone on respiratory function in active, normal children.</title>
+    <journal>Am. Rev. Respir. Dis.</journal>
+    <volume>137:</volume>
+    <pages>313-320.</pages>
+  </sequence>
+  <sequence>
+    <author>Spektor, D. M.; Thurston, G. D.; Mao, J.; He, D.; Hayes, C.; Lippmann, M.</author>
+    <date>(1991)</date>
+    <title>Effects of single- and multiday ozone exposures on respiratory function in active normal children.</title>
+    <journal>Environ. Res.</journal>
+    <volume>55:</volume>
+    <pages>107-122.</pages>
+  </sequence>
+  <sequence>
+    <author>Stasiuk, W. N., Jr.; Coffey, P. E.</author>
+    <date>(1974)</date>
+    <title>Rural and urban ozone relationships in New York State.</title>
+    <journal>J. Air Pollut. Control Assoc.</journal>
+    <volume>24:</volume>
+    <pages>564-568.</pages>
+  </sequence>
+  <sequence>
+    <author>Stock, T. H.; Holguin, A. H.; Selwyn, B. J.; Hsi, B. P.; Contant, C. F.; Buffler, P. A.; Kotchmar, D. J.</author>
+    <date>(1983)</date>
+    <title>Exposure estimates for the Houston area asthma and runners studies.</title>
+    <editor>In: Lee, S. D.; Mustafa, M. G.; Mehlman, M. A., eds.</editor>
+    <container-title>International symposium on the biomedical effects of ozone and related photochemical oxidants;</container-title>
+    <date>March 1982;</date>
+    <location>Pinehurst, NC. Princeton, NJ:</location>
+    <publisher>Princeton Scientific Publishers, Inc.;</publisher>
+    <pages>pp. 539-548.</pages>
+    <note>(Advances in modern environmental toxicology: v. 5).</note>
+  </sequence>
+  <sequence>
+    <author>Stoeckenius, T.</author>
+    <date>(1991)</date>
+    <title>Adjustment of ozone trends for meteorological variations.</title>
+    <editor>In: Berglund, R. L.; Lawson, D. R.; McKee, D. J., eds.</editor>
+    <container-title>Tropospheric ozone and the environment: papers from an international conference;</container-title>
+    <date>March 1990;</date>
+    <location>Los Angeles, CA. Pittsburgh, PA:</location>
+    <publisher>Air &amp; Waste Management Association;</publisher>
+    <pages>pp. 781-800.</pages>
+    <note>(A&amp;WMA transactions series no. TR-19).</note>
+  </sequence>
+  <sequence>
+    <author>Stoeckenius, T. E.; Hudischewskyj, A. B.</author>
+    <date>(1990)</date>
+    <title>Adjustment for ozone trends for meteorological variation.</title>
+    <location>San Rafael, CA:</location>
+    <publisher>Systems Applications, Inc.;</publisher>
+    <note>paper no. SYSAPP-90/008.</note>
+  </sequence>
+  <sequence>
+    <author>Tanner, R. L.; Miguel, A. H.; de Andrade, J. B.; Gaffney, J. S.; Streit, G. E.</author>
+    <date>(1988)</date>
+    <title>Atmospheric chemistry of aldehydes: enhanced peroxyacetyl nitrate formation from ethanol-fueled vehicular emissions.</title>
+    <journal>Environ. Sci. Technol.</journal>
+    <volume>22:</volume>
+    <pages>1026-1034.</pages>
+  </sequence>
+  <sequence>
+    <author>Taylor, G. E., Jr.; Hanson, P. J.</author>
+    <date>(1992)</date>
+    <title>Forest trees and tropospheric ozone: role of canopy deposition and leaf uptake in developing exposure-response relationships.</title>
+    <journal>Agric. Ecosyst. Environ.</journal>
+    <volume>42:</volume>
+    <pages>255-273.</pages>
+  </sequence>
+  <sequence>
+    <author>Taylor, G. E., Jr.; Norby, R. J.</author>
+    <date>(1985)</date>
+    <title>The significance of elevated levels of ozone on natural ecosystems of North America.</title>
+    <editor>In: Lee, S. D., ed.</editor>
+    <title>Evaluation of the scientific basis for ozone/oxidants standards:</title>
+    <container-title>proceedings of an APCA international specialty conference;</container-title>
+    <date>November 1984;</date>
+    <location>Houston, TX. Pittsburgh, PA:</location>
+    <publisher>Air Pollution Control Association;</publisher>
+    <pages>pp. 152-175.</pages>
+    <note>(APCA transactions: TR-4).</note>
+  </sequence>
+  <sequence>
+    <author>Taylor, G. E., Jr.; McLaughlin, S. B.; Shriner, D. S.</author>
+    <date>(1982)</date>
+    <title>Effective pollutant dose.</title>
+    <editor>In: Unsworth, M. H.; Ormrod, D. P., eds.</editor>
+    <title>Effects of gaseous air pollution in agriculture and horticulture.</title>
+    <location>London, United Kingdom:</location>
+    <publisher>Butterworth Scientific;</publisher>
+    <pages>pp. 458-460.</pages>
+  </sequence>
+  <sequence>
+    <author>Taylor, G. E., Jr.; Ross-Todd, B. M.; Allen, E.; Conklin, P.; Edmonds, R.; Joranger, E.; Miller, E.; Ragsdale, L.; Shepard, J.; Silsbee, D.; Swank, W.</author>
+    <date>(1992)</date>
+    <title>Patterns of tropospheric ozone in forested landscapes of the Integrated Forest Study.</title>
+    <editor>In: Johnson, D. W.; Lindberg, S. E., eds.</editor>
+    <title>Atmospheric deposition and forest nutrient cycling: a synthesis of the integrated forest study.</title>
+    <location>New York, NY:</location>
+    <publisher>Springer-Verlag;</publisher>
+    <pages>pp. 50-71.</pages>
+    <editor>(Billings, W. D.; Golley, F.; Lange, O. L.; Olson, J. S.; Remmert, H., eds.</editor>
+    <note>Ecological studies: analysis and synthesis: v. 91).</note>
+  </sequence>
+  <sequence>
+    <author>Thompson, C. R.</author>
+    <date>(1971)</date>
+    <title>Measurement of total oxidant levels at Riverside Community Hospital.</title>
+    <journal>Arch. Environ. Health</journal>
+    <volume>22:</volume>
+    <pages>514-515.</pages>
+  </sequence>
+  <sequence>
+    <author>Thompson, A. M.</author>
+    <date>(1992)</date>
+    <title>The oxidizing capacity of the Earth’s atmosphere: probable past and future changes.</title>
+    <journal>Science (Washington,</journal>
+    <volume>DC) 256:</volume>
+    <pages>1157-1165.</pages>
+  </sequence>
+  <sequence>
+    <author>Thompson, C. R.; Hensel, E. G.; Kats, G.</author>
+    <date>(1973)</date>
+    <title>Outdoor-indoor levels of six air pollutants.</title>
+    <journal>J. Air Pollut. Control Assoc.</journal>
+    <volume>23:</volume>
+    <pages>881-886.</pages>
+  </sequence>
+  <sequence>
+    <author>Thurston, G. D.; Ito, K.; Kinney, P. L.; Lippmann, M.</author>
+    <date>(1992)</date>
+    <title>A multi-year study of air pollution and respiratory hospital admissions in three New York State metropolitan areas: results for 1988 and 1989 summers.</title>
+    <journal>J. Exposure Anal. Environ. Epidemiol.</journal>
+    <volume>2:</volume>
+    <pages>429-450.</pages>
+  </sequence>
+  <sequence>
+    <author>Thurston, G. D.; Gorczynski, J. E., Jr.; Currie, J. H.; He, D.; Ito, K.; Hipfner, J.; Waldman, J.; Lioy, P. J.; Lippmann, M.</author>
+    <date>(1994)</date>
+    <title>The nature and origins of acid summer haze air pollution in metropolitan Toronto, Ontario.</title>
+    <journal>Environ. Res.</journal>
+    <volume>65:</volume>
+    <pages>254-270.</pages>
+  </sequence>
+  <sequence>
+    <author>Trainer, M.; Williams, E. J.; Parrish, D. D.; Buhr, M. P.; Allwine, E. J.; Westberg, H. H.; Fehsenfeld, F. C.; Liu, S. C.</author>
+    <date>(1987)</date>
+    <title>Models and observations of the impact of natural hydrocarbons on rural ozone.</title>
+    <journal>Nature (London)</journal>
+    <volume>329:</volume>
+    <pages>705-707.</pages>
+  </sequence>
+  <sequence>
+    <author>Tsalkani, N.; Perros, P.; Dutot, A. L.; Toupance, G.</author>
+    <date>(1991)</date>
+    <title>One-year measurements of PAN in the Paris basin: effect of meteorological parameters.</title>
+    <journal>Atmos. Environ. Part A</journal>
+    <volume>25:</volume>
+    <pages>1941-1949.</pages>
+  </sequence>
+  <sequence>
+    <author>Tsani-Bazaca, E.; Glavas, S.; Güsten, H.</author>
+    <date>(1988)</date>
+    <title>Peroxyacetyl nitrate (PAN) concentrations in Athens, Greece.</title>
+    <journal>Atmos. Environ.</journal>
+    <volume>22:</volume>
+    <pages>2283-2286.</pages>
+  </sequence>
+  <sequence>
+    <author>U.S. Environmental Protection Agency.</author>
+    <date>(1978)</date>
+    <title>Air quality criteria for ozone and other photochemical oxidants. Research Triangle Park, NC: Office of Health and Environmental Assessment,</title>
+    <journal>Environmental Criteria and Assessment Office;</journal>
+    <volume>report no. EPA-600/8-78-004.</volume>
+    <location>Available from:</location>
+    <publisher>NTIS,</publisher>
+    <location>Springfield, VA;</location>
+    <pages>PB80-124753.</pages>
+  </sequence>
+  <sequence>
+    <author>U.S. Environmental Protection Agency.</author>
+    <date>(1986)</date>
+    <title>Air quality criteria for ozone and other photochemical oxidants. Research Triangle Park, NC: Office of Health and Environmental Assessment, Environmental Criteria and Assessment Office; report nos.</title>
+    <journal>EPA-600/8-84-020aF-eF.</journal>
+    <volume>5v.</volume>
+    <location>Available from:</location>
+    <publisher>NTIS,</publisher>
+    <location>Springfield, VA;</location>
+    <pages>PB87-142949.</pages>
+  </sequence>
+  <sequence>
+    <author>U.S. Environmental Protection Agency.</author>
+    <date>(1989)</date>
+    <title>Review of the national ambient air quality standards for ozone: assessment of scientific and technical information.</title>
+    <container-title>OAQPS staff paper. Research Triangle Park, NC: Office of Air Quality Planning and Standards;</container-title>
+    <volume>report no. EPA-450/2-92/001.</volume>
+    <location>Available from:</location>
+    <publisher>NTIS,</publisher>
+    <location>Springfield, VA;</location>
+    <pages>PB92-190446.</pages>
+  </sequence>
+  <sequence>
+    <author>U.S. Environmental Protection Agency.</author>
+    <date>(1991)</date>
+    <title>Air quality criteria for carbon monoxide. Research Triangle Park, NC: Office of Health and Environmental Assessment,</title>
+    <journal>Environmental Criteria and Assessment Office;</journal>
+    <volume>report no. EPA/600/8-90/045F.</volume>
+    <location>Available from:</location>
+    <publisher>NTIS,</publisher>
+    <location>Springfield, VA;</location>
+    <pages>PB93-167492.</pages>
+  </sequence>
+  <sequence>
+    <author>U.S. Environmental Protection Agency.</author>
+    <date>(1992a)</date>
+    <title>National air quality and emissions trends report,</title>
+    <date>1991.</date>
+    <title>Research Triangle Park, NC: U.S.</title>
+    <container-title>Environmental Protection Agency,Office of Air Quality Planning and Standards;</container-title>
+    <volume>report no. EPA/450-R-92-001.</volume>
+    <location>Available from:</location>
+    <publisher>NTIS,</publisher>
+    <location>Springfield, VA;</location>
+    <pages>PB93-143998/XAB.</pages>
+  </sequence>
+  <sequence>
+    <author>U.S. Environmental Protection Agency.</author>
+    <date>(1992b)</date>
+    <title>Summary of selected new information on effects of ozone on health and vegetation: supplement to 1986 air quality criteria for ozone and other photochemical oxidants.</title>
+    <container-title>Research Triangle Park, NC: Office of Health and Environmental Assessment, Environmental Criteria and Assessment Office;</container-title>
+    <volume>report no. EPA/600/8-88/105F.</volume>
+    <location>Available from:</location>
+    <publisher>NTIS,</publisher>
+    <location>Springfield, VA;</location>
+    <pages>PB92-235670.</pages>
+  </sequence>
+  <sequence>
+    <author>U.S. Environmental Protection Agency.</author>
+    <date>(1993)</date>
+    <title>National air quality and emissions trends report,</title>
+    <date>1992.</date>
+    <title>Research Triangle Park, NC: Office of Air Quality Planning and Standards;</title>
+    <volume>report no. EPA/454/R-93/031.</volume>
+    <location>Available from:</location>
+    <publisher>NTIS,</publisher>
+    <location>Springfield, VA;</location>
+    <pages>PB94-146669/XAB.</pages>
+  </sequence>
+  <sequence>
+    <author>U.S. Environmental Protection Agency.</author>
+    <date>(1994)</date>
+    <title>National air quality and emissions trends report,</title>
+    <date>1993.</date>
+    <title>Research Triangle Park,</title>
+    <container-title>NC: Office of Air Quality Planning and Standards;</container-title>
+    <volume>report no. EPA</volume>
+    <pages>454/R-94-026.</pages>
+  </sequence>
+  <sequence>
+    <author>Van Valin, C. C.; Ray, J. D.; Boatman, J. F.; Gunter, R. L.</author>
+    <date>(1987)</date>
+    <title>Hydrogen peroxide in air during winter over the south-central United States.</title>
+    <journal>Geophys. Res. Lett.</journal>
+    <volume>14:</volume>
+    <pages>1146-1149.</pages>
+  </sequence>
+  <sequence>
+    <author>Volz, A.; Kley, D.</author>
+    <date>(1988)</date>
+    <title>Evaluation of the Montsouris series of ozone measurements made in the nineteenth century.</title>
+    <journal>Nature (London)</journal>
+    <volume>332:</volume>
+    <pages>240-242.</pages>
+  </sequence>
+  <sequence>
+    <author>Vong, R. J.; Guttorp, P.</author>
+    <date>(1991)</date>
+    <title>Co-occurence of ozone and acidic cloudwater in high-elevation forests.</title>
+    <journal>Environ. Sci. Technol.</journal>
+    <volume>25:</volume>
+    <pages>1325-1329.</pages>
+  </sequence>
+  <sequence>
+    <author>Vukovich, F. M.; Bach, W. D., Jr.; Crissman, B. W.; King, W. J.</author>
+    <date>(1977)</date>
+    <title>On the relationship between high ozone in the rural surface layer and high pressure systems.</title>
+    <journal>Atmos. Environ.</journal>
+    <volume>11:</volume>
+    <pages>967-983.</pages>
+  </sequence>
+  <sequence>
+    <author>Wakim, P. G.</author>
+    <date>(1990)</date>
+    <title>1981 to 1988 ozone trends adjusted to meteorological conditions for 13 metropolitan areas.</title>
+    <container-title>Presented at: 83rd annual meeting and exhibition of the Air &amp; Waste Management Association;</container-title>
+    <location>June; Pittsburgh, PA. Pittsburgh, PA:</location>
+    <publisher>Air &amp; Waste Management Association;</publisher>
+    <note>paper no. 90-97.9.</note>
+  </sequence>
+  <sequence>
+    <author>Weschler, C. J.; Shields, H. C.; Naik, D. V.</author>
+    <date>(1989)</date>
+    <title>Indoor ozone exposures.</title>
+    <journal>JAPCA</journal>
+    <volume>39:</volume>
+    <pages>1562-1568.</pages>
+  </sequence>
+  <sequence>
+    <author>Wight, G. D.; Wolff, G. T.; Lioy, P. J.; Meyers, R. E.; Cederwall, R. T.</author>
+    <date>(1978)</date>
+    <title>Formation and transport of ozone in the northeast quadrant of the United States.</title>
+    <editor>In: Morris, A. L.; Barras, R. C., eds.</editor>
+    <container-title>Air quality meteorology and atmospheric ozone: a symposium sponsored by ASTM Committee D-22 on Methods of Sampling and Analysis of Atmospheres;</container-title>
+    <date>July-August 1977;</date>
+    <location>Boulder, CO. Philadelphia, PA:</location>
+    <publisher>American Society for Testing and Materials;</publisher>
+    <pages>pp. 445-457;</pages>
+    <note>ASTM special technical publication 653.</note>
+  </sequence>
+  <sequence>
+    <author>Williams, E. L., II; Grosjean, D.</author>
+    <date>(1990)</date>
+    <title>Southern California air quality study: peroxyacetyl nitrate.</title>
+    <journal>Atmos. Environ. Part A</journal>
+    <volume>24:</volume>
+    <pages>2369-2377.</pages>
+  </sequence>
+  <sequence>
+    <author>Williams, E. L., II; Grosjean, D.</author>
+    <date>(1991)</date>
+    <title>Peroxypropionyl nitrate at a Southern California mountain forest site.</title>
+    <journal>Environ. Sci. Technol.</journal>
+    <volume>25:</volume>
+    <pages>653-659.</pages>
+  </sequence>
+  <sequence>
+    <author>Williams, E. L., II; Grosjean, E.; Grosjean, D.</author>
+    <date>(1993)</date>
+    <title>Ambient levels of the peroxyacyl nitrates PAN, PPN, and MPAN in Atlanta, Georgia.</title>
+    <journal>Air Waste</journal>
+    <volume>43:</volume>
+    <pages>873-879.</pages>
+  </sequence>
+  <sequence>
+    <author>Winer, A. M.; Lurmann, F. W.; Coyner, L. A.; Colome, S. D.; Poe, M. P.</author>
+    <date>(1989)</date>
+    <title>Characterization of air pollution exposures in the California south coast air basin: application of a new regional human exposure (REHEX) model.</title>
+    <location>Riverside, CA:</location>
+    <publisher>University of California at Riverside.</publisher>
+  </sequence>
+  <sequence>
+    <author>Winner, W. E.; Lefohn, A. S.; Cotter, I. S.; Greitner, C. S.; Nellessen, J.; McEvoy, L. R., Jr.; Olson, R. L.; Atkinson, C. J.; Moore, L. D.</author>
+    <date>(1989)</date>
+    <title>Plant responses to elevational gradients of O3 exposures in Virginia.</title>
+    <journal>Proc. Natl. Acad. Sci. U. S. A.</journal>
+    <volume>86:</volume>
+    <pages>8828-8832.</pages>
+  </sequence>
+  <sequence>
+    <author>Wolff, G. T.; Lioy, P. J.</author>
+    <date>(1980)</date>
+    <title>Development of an ozone river associated with synoptic scale episodes in the eastern United States.</title>
+    <journal>Environ. Sci. Technol.</journal>
+    <volume>14:</volume>
+    <pages>1257-1260.</pages>
+  </sequence>
+  <sequence>
+    <author>Wolff, G. T.; Stasiuk, W. N., Jr.; Coffey, P. E.; Pasceri, R. E.</author>
+    <date>(1975)</date>
+    <title>Aerial ozone measurements over New Jersey, New York, and Connecticut.</title>
+    <container-title>Presented at: 68th annual meeting of the Air Pollution Control Association;</container-title>
+    <location>June; Boston, MA. Pittsburgh, PA:</location>
+    <publisher>Air Pollution Control Association;</publisher>
+    <note>paper no. 75-58.6.</note>
+  </sequence>
+  <sequence>
+    <author>Wolff, G. T.; Lioy, P. J.; Wight, G. D.; Meyers, R. E.; Cederwall, R. T.</author>
+    <date>(1977)</date>
+    <title>An investigation of long-range transport of ozone across the midwestern and eastern United States.</title>
+    <editor>In: Dimitriades, B., ed.</editor>
+    <container-title>International conference on photochemical oxidant pollution and its control - proceedings:</container-title>
+    <volume>volume I;</volume>
+    <date>September 1976;</date>
+    <location>Raleigh,</location>
+    <publisher>NC. Research Triangle</publisher>
+    <location>Park, NC:</location>
+    <publisher>U.S. Environmental Protection Agency, Environmental Sciences Research Laboratory;</publisher>
+    <pages>pp. 307-317;</pages>
+    <volume>report no. EPA-600/3-77-001a.</volume>
+    <location>Available from:</location>
+    <publisher>NTIS,</publisher>
+    <location>Springfield, VA;</location>
+    <pages>PB-264232.</pages>
+  </sequence>
+  <sequence>
+    <author>Wolff, G. T.; Lioy, P. J.; Taylor, R. S.</author>
+    <date>(1987)</date>
+    <title>The diurnal variations of ozone at different altitudes on a rural mountain in the eastern United States.</title>
+    <journal>JAPCA</journal>
+    <volume>37:</volume>
+    <pages>45-48.</pages>
+  </sequence>
+  <sequence>
+    <author>World Meteorological Organization.</author>
+    <date>(1994)</date>
+    <title>Scientific assessment of ozone depletion:</title>
+    <date>1994.</date>
+    <title>Executive summary.</title>
+    <location>Geneva, Switzerland:</location>
+    <publisher>World Meteorological Organization, United Nations Environment Programme;</publisher>
+    <volume>report no. 37.</volume>
+  </sequence>
+  <sequence>
+    <author>Yocom, J. E.</author>
+    <date>(1982)</date>
+    <title>Indoor-outdoor air quality relationships: a critical review.</title>
+    <journal>J. Air Pollut. Control Assoc.</journal>
+    <volume>32:</volume>
+    <pages>500-520.</pages>
+  </sequence>
+  <sequence>
+    <author>Zeldin, M. D.; Cassmassi, J. C.; Hoggan, M.</author>
+    <date>(1991)</date>
+    <title>Ozone trends in the South Coast Air Basin: an update.</title>
+    <editor>In: Berglund, R. L.; Lawson, D. R.; McKee, D. J., eds.</editor>
+    <container-title>Tropospheric ozone and the environment: papers from an international conference;</container-title>
+    <date>March 1990;</date>
+    <location>Los Angeles, CA. Pittsburgh, PA:</location>
+    <publisher>Air &amp; Waste Management Association;</publisher>
+    <pages>pp. 760-771.</pages>
+    <note>(A&amp;WMA transactions series no. TR-19).</note>
+  </sequence>
+  <sequence>
+    <author>Zhang, J.; Lioy, P. J.</author>
+    <date>(1994)</date>
+    <title>Ozone in residential air: concentrations, I/O ratios, indoor chemistry, and exposures.</title>
+    <journal>Indoor Air</journal>
+    <volume>4:</volume>
+    <pages>95-105.</pages>
+  </sequence>
+  <sequence>
+    <author>Zimmerman, P. R.</author>
+    <date>(1979)</date>
+    <title>Determination of emission rates of hydrocarbons from indigenous species of vegetation in the Tampa/St.</title>
+    <location>Petersburg, Florida area. Atlanta, GA:</location>
+    <publisher>U.S.</publisher>
+    <container-title>Environmental Protection Agency, Air Programs Branch;</container-title>
+    <volume>report no. EPA-904/9-77-028.</volume>
+    <location>Available from:</location>
+    <publisher>NTIS,</publisher>
+    <location>Springfield, VA;</location>
+    <pages>PB-297 057.</pages>
+  </sequence>
+</dataset>
