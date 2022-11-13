@@ -1,4 +1,6 @@
 import os
+import ftfy
+#import ntlk
 
 # set your directory
 dir = '/Users/jbakken/Desktop/HMC/2022_Fall/Research/Mallet/epa_1996/'
@@ -9,11 +11,12 @@ originalTxt = dir + '1996_v1_2.txt'
 # create new files (some temporary)
 filteredTxt = dir + 'filtered_text_tempFile.txt'
 docsTxt = dir + 'split_documents_tempFile.txt'
-tsv = dir + 'segmented_documents.txt'
+tsv = dir + 'segmented_documents_with_refs.txt'
 
 # clean the text (dependent on the input file)
+# use latin-1 to avoid encoding probs, ftfy to convert back to utf-8
 with open(filteredTxt, 'a') as f:
-    for line in open(originalTxt, encoding = "latin1"):
+    for line in open(originalTxt, encoding = "latin-1"):
         try:
             if len(line) < 150:
                 continue
@@ -21,17 +24,17 @@ with open(filteredTxt, 'a') as f:
                 continue
             elif '....' in line: 
                 continue 
-            f.write(line)
+            f.write(ftfy.fix_text(line))
         except:
             continue
 
-# read all words to list
+# read all words to list -- TODO use nltk tokenizer
 allWords = []
 for line in open(filteredTxt, 'r'):
     row = line.split(' ')
     allWords += list(row)
 
-# group into 500+ word documents separated by newlines
+# group into 500+ word documents separated by newlines 
 i = 1
 line_breaker = 500
 with open(docsTxt, 'a') as f:
