@@ -1,6 +1,6 @@
 import os
 import ftfy
-#import ntlk
+import nltk
 
 # set your directory
 dir = '/Users/jbakken/Desktop/HMC/2022_Fall/Research/Mallet/epa_1996/'
@@ -14,7 +14,7 @@ docsTxt = dir + 'split_documents_tempFile.txt'
 tsv = dir + 'segmented_documents_with_refs.txt'
 
 # clean the text (dependent on the input file)
-# use latin-1 to avoid encoding probs, ftfy to convert back to utf-8
+# latin-1 avoids encoding probs, then ftfy converts back to utf-8
 with open(filteredTxt, 'a') as f:
     for line in open(originalTxt, encoding = "latin-1"):
         try:
@@ -28,22 +28,25 @@ with open(filteredTxt, 'a') as f:
         except:
             continue
 
-# read all words to list -- TODO use nltk tokenizer
-allWords = []
+# read all tokens to list
+allTokens = []
 for line in open(filteredTxt, 'r'):
-    row = line.split(' ')
-    allWords += list(row)
+    for sentence in nltk.sent_tokenize(line):
+        allTokens += nltk.word_tokenize(sentence)
+        # newline to signify the end of a sentence
+        if allTokens[-1]  == ".":
+            allTokens += ['\n']
 
 # group into 500+ word documents separated by newlines 
 i = 1
 line_breaker = 500
 with open(docsTxt, 'a') as f:
-    for word in allWords:
-        if(i >= line_breaker and len(word) > 4 and word[-1] == '.'):
-            f.write(word.strip('\n')+"\n")
+    for token in allTokens:
+        if(i >= line_breaker and token == "\n"):
+            f.write(token)
             i = 0
-        else:
-            f.write(word.strip('\n')+" ")
+        elif token != "\n":
+            f.write(token + " ")
         i += 1
 
 # place documents in an array 
