@@ -30,9 +30,12 @@ with open(filteredTxt, 'a') as f:
 
 # read all tokens to list
 allTokens = []
+unwantedPunctuation = ["''", "``", '"', "'", "(", ")", "[", "]", ";", ",", ":"]
 for line in open(filteredTxt, 'r'):
     for sentence in nltk.sent_tokenize(line):
-        allTokens += nltk.word_tokenize(sentence)
+        for token in nltk.word_tokenize(sentence):
+            if token not in unwantedPunctuation:
+                allTokens += [token]
         # newline to signify the end of a sentence
         if allTokens[-1]  == ".":
             allTokens += ['\n']
