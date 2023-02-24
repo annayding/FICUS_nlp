@@ -3,14 +3,18 @@ import numpy as np
 import xml.etree.cElementTree as et
 import os
 
-dir = os.path.dirname(os.path.realpath(__file__))
-dir = dir + "/xml_refs/"
-title_list = [file for file in os.listdir(dir)]
+refs_folder = '/xml_refs/'
+outdir = './csv_refs_v2/'
 
-for xml in title_list:
+if not os.path.exists(outdir):
+    os.mkdir(outdir)
 
-    tree=et.parse(dir + "/" + xml)
-    root=tree.getroot()
+dir = os.path.dirname(os.path.realpath(__file__)) + refs_folder
+
+for xml in os.listdir(dir):
+
+    tree = et.parse(dir + '/' + xml)
+    root = tree.getroot()
 
     Author = []
     Date = []
@@ -19,26 +23,49 @@ for xml in title_list:
     Volume = []
     Pages = []
 
-    for author in root.iter('author'):
-        Author.append(author.text)
+    # TODO: fix missing first reference?
+    for sequence in root.findall('sequence'):
+        
+        author = sequence.find('author')
+        if author is not None:
+            Author.append(author.text)
+        else:
+            Author.append(' ')
 
-    for date in root.iter('date'):
-        Date.append(date.text)
+        date = sequence.find('date')
+        if date is not None:
+            Date.append(date.text)
+        else:
+            Date.append(' ')
 
-    for title in root.iter('title'):
-        Title.append(title.text)
+        title = sequence.find('title')
+        if title is not None:
+            Title.append(title.text)
+        else:
+            Title.append('')
 
-    for journal in root.iter('journal'):
-        Journal.append(journal.text)
+        journal = sequence.find('journal')
+        if journal is not None:
+            Journal.append(journal.text)
+        else:
+            Journal.append('')
 
-    for volume in root.iter('volume'):
-        Volume.append(volume.text)
+        volume = sequence.find('volume')
+        if volume is not None:
+            Volume.append(volume.text)
+        else:
+            Volume.append('')
 
-    for pages in root.iter('pages'):
-        Pages.append(pages.text)
+        pages = sequence.find('pages')
+        if pages is not None:
+            Pages.append(pages.text)
+        else:
+            Pages.append('')
 
     refs_df = pd.DataFrame(
                         list(zip(Title, Author, Date, Journal, Volume, Pages)), 
                         columns=['Title', 'Author', 'Date', 'Journal', 'Volume', 'Pages'])
 
-    refs_df.to_csv("DimCLI/csv_refs/" + xml[:-4] + ".csv")
+    outname = xml[:-4] + '.csv'   
+    fullname = os.path.join(outdir, outname)  
+    refs_df.to_csv(fullname)
