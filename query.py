@@ -2,11 +2,16 @@ import os
 import dimcli
 from dimcli.utils import *
 import pandas as pd
-import numpy as np
+import numpy as np 
 
-# TODO: Regex the dates
+# TODO: regex the dates in extract_year
 # TODO: separate results into folders
 # TODO: run the negative queries with partial string match
+
+class InvalidQueryTypeException(Exception):
+    "Raised when the query type is not 'exact' or 'fuzzy'"
+    pass
+
 def login():
 
     dimcli.login(key="02CB1C5A52B5430AA173E8D88F59A986",  
@@ -27,12 +32,41 @@ def format_title(title):
 def extract_year(date):
     return int(date[-5:-1])
 
-def query_title_year(df):
+def query_exact_title_year(title, year):
+    exact_title = '"' + '\\"' + title + '\\"' + '"'
+    query = f"""
+        search publications in title_only 
+            for {exact_title} 
+            where year = {year}
+        return publications[id+title+year+journal] limit 1
+        """
+    return query
+
+def query_fuzzy_title_year(title, year):
+    query = f"""
+        search publications in title_only 
+            for "{dsl_escape(title)}" 
+            where year = {year}
+        return publications[id+title+year+journal] limit 1
+        """
+    return query
+
+def query_fuzzy_title_year_author(title, year, author):
+    query = f"""
+        search publications in title_only 
+            for "{dsl_escape(title)}" 
+            where year = {year}
+            where authors = {author}
+        return publications[id+title+year+authors+journal] limit 1
+        """
+    return query
+
+def run_query(df, q_type="exact"):
 
     dsl = login()
     df_titles_years = df[["Title", "Date"]]
 
-    # TODO: turn into dataframs, use for output
+    # TODO: turn into dataframes, use for output
     query_results = []
     yes_result = []
     no_result = []
@@ -69,13 +103,19 @@ def query_title_year(df):
         print(title + " [" + str(year)  + "]") 
 
         # DSL query by title, year
-        query = f"""
-                search publications in title_only 
-                    for "{dsl_escape(title)}" 
-                    where year = {year}
-                return publications[id+title+year+journal] limit 1
-                """
-        query_df = dsl.query(query).as_dataframe()]
+        try: 
+            if q_type == "exact":
+                query = query_exact_title_year(title, year)
+            elif q_type == "fuzzy":
+                query = query_fuzzy_title(title, year)
+            else:
+                raise InvalidQueryTypeException
+
+        except InvalidQueryTypeException:
+            print("Invalid query type, retry with valid q_type string")
+            break
+        
+        query_df = dsl.query(query).as_dataframe()
 
         # Separate into succesful/unsuccesful references
         if query_df is None:
@@ -97,6 +137,6 @@ def query_title_year(df):
     
     return results_df, yes_result, no_result, no_date, bad_format
 
-def query_by_path(csv_path):
-    return query_title_year(pd.read_csv(csv_path))
+def query_by_path(csv_path, q_type="exact"):
+    return run_query(pd.read_csv(csv_path), q_type=q_type)
     
