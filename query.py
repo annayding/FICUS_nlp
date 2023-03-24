@@ -153,13 +153,6 @@ def run_query(df, q_type="exact"):
     
     return positive_results, negative_results, dateless, bad_format
 
-def query_by_path(csv_path, q_type="exact"):
-    """ Input: string of path to csv
-        Param: query type, "exact" or "fuzzy"
-        Output: run_query function using dataframe of references from path
-    """
-    return run_query(pd.read_csv(csv_path), q_type=q_type)
-
 def convert_results_to_csv(query_results, report):
     '''Converts query results into csv files and separates into respective folders
         Input: query_results, the dataframes returned by the run_query function
@@ -176,4 +169,20 @@ def convert_results_to_csv(query_results, report):
     if len(bad_format) > 0:
         bad_format.to_csv('dsl_query_results/bad_format/bad_format_' + report)
     return  
+
+def query_by_path(csv_path, q_type="exact"):
+    """ Input: string of path to csv
+        Param: query type, "exact" or "fuzzy"
+        Output: run_query function using dataframe of references from path
+    """
+    return run_query(pd.read_csv(csv_path), q_type=q_type)
+
+def query_ssh(report, q_type="exact"):
+    ''' Input: the queried report formatted as a string 'report_title.csv'
+        Param: query type "exact" or "fuzzy"
+    '''
+    q = query_by_path('csv_refs_v2/' + report, q_type=q_type)
+    convert_results_to_csv(q, report)
+    return
+
     
