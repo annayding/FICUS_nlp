@@ -8,7 +8,7 @@ class InvalidQueryTypeException(Exception):
     "Raised when the query type is not 'exact' or 'fuzzy'"
     pass
 
-def login(key_in="02CB1C5A52B5430AA173E8D88F59A986", endpoint_in="https://app.dimensions.ai/api/dsl/v2"):
+def login(key_in="", endpoint_in="https://app.dimensions.ai/api/dsl/v2"):
     """ Inputs: key, endpoint 
         Outputs: Dimcli DSL query client
     """
