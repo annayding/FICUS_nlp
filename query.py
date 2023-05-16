@@ -1,11 +1,12 @@
 import dimcli
+import dimcli.utils as du
 import pandas as pd
 import numpy as np 
 import re
 
 
 class InvalidQueryTypeException(Exception):
-    "Raised when the query type is not 'exact' or 'fuzzy'"
+    """Raised when the query type is not 'exact' or 'fuzzy'"""
     pass
 
 def login(key_in="", endpoint_in="https://app.dimensions.ai/api/dsl/v2"):
@@ -27,7 +28,17 @@ def format_title(title):
 
     return title_str
 
-# TODO: regex the dates in extract_year
+def get_first_author(author): 
+    """ Input: author from df 
+        Outputs: string first author last name
+    """
+    
+    author_str = str(author)
+    first_author = author_str.split(' ')[0]
+    if first_author[-1] == ",": 
+        first_author = first_author[:-1]
+    return first_author
+
 def extract_year(date):
     """ Input: string date
         Output: string year
@@ -54,20 +65,21 @@ def query_fuzzy_title_year(title, year):
     """
     query = f"""
         search publications in title_only 
-            for "{dsl_escape(title)}" 
+            for "{du.dsl_escape(title)}" 
             where year = {year}
         return publications[id+title+year+journal] limit 1
         """
     return query
 
+# TODO: combine author fuzzy with prev with default parameters
 def query_fuzzy_title_year_author(title, year, author):
-    """ Input: String title, string year
+    """ Input: String title, string year, string author (first author)
         Output: Query string to query for a fuzzy title, year, and author match
     """
     query = f"""
         search publications in title_only 
-            for "{dsl_escape(title)}" 
-            where year = {year}
+            for "{du.dsl_escape(title)}" 
+            where year = {year} 
             where authors = {author}
         return publications[id+title+year+authors+journal] limit 1
         """
@@ -77,7 +89,7 @@ def run_query(df, q_type="exact"):
     """ Input: dataframe of references
         Param: query type, "exact" or "fuzzy"
         Outputs:
-            positive_results - dataframe of positive query results
+            positive_results - dataframe of queries that returned a result
             negative_results - dataframe of references that returned a null query result
             dateless - dataframe of references that have no date
             bad_format - dataframe of references with bad title or date formatting
@@ -90,12 +102,12 @@ def run_query(df, q_type="exact"):
     dateless = pd.DataFrame()
     bad_format = pd.DataFrame()
 
-    df_titles_years = df[["Title", "Date"]]
+    df_titles_authors_years = df[["Title", "Author", "Date"]]
 
-    for index, [title, date] in df_titles_years.iterrows():
+    for index, [title, author, date] in df_titles_authors_years.iterrows():
 
         # Force loop to end
-        num_rows = len(df_titles_years)
+        num_rows = len(df_titles_authors_years)
         if index + 1 == num_rows:
             break
 
@@ -110,6 +122,8 @@ def run_query(df, q_type="exact"):
                 title = format_title(title)
                 # format YYYY
                 year = extract_year(date)
+                # get first author last name
+                author = get_first_author(author)
                 # remove unreasonable years  
                 if int(year) < 1800 or int(year) > 2023:
                     raise Exception
